@@ -1,0 +1,29 @@
+[
+  {
+    "EmployeeId": "-",
+    "EmployeeNm": "-",
+    "EmployeeEid": "-",
+    "TransId": -1,
+    "BenefitNm": "Loan",
+    "BenefitTypeCd": "SSS",
+    "BenefitTypeNm": "SSS Salary Loan",
+    "UploadFileId": -1,
+    "Valid": [
+      {
+        "UploadFileDetailId": -1,
+        "DocumentCd": "SSS_LOAN",
+        "DocumentFileNm": "sss_alvin.png",
+        "ExtractedData": {
+          "loanAmount": "40000.00",
+          "loanApprovalDate": "-",
+          "loanStartDate": "2025-06-30",
+          "approvedAmortizationAmount": "1845.80",
+          "deductionPerPayPeriod": "1845.80",
+          "loanEndDate": "-",
+          "chequeAmount": "39095.89",
+          "outstandingBalance": "24903.35"
+        }
+      }
+    ]
+  }
+]

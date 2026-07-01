@@ -1,0 +1,29 @@
+[
+  {
+    "EmployeeId": "-",
+    "EmployeeNm": "-",
+    "EmployeeEid": "-",
+    "TransId": -1,
+    "BenefitNm": "Loan",
+    "BenefitTypeCd": "PAGIBIG",
+    "BenefitTypeNm": "Pag-IBIG Multi-Purpose Loan",
+    "UploadFileId": -1,
+    "Valid": [
+      {
+        "UploadFileDetailId": -1,
+        "DocumentCd": "PAGIBIG_LOAN",
+        "DocumentFileNm": "2026-07-01_151348_compressed.pdf",
+        "ExtractedData": {
+          "loanAmount": "PHP9.885.91",
+          "loanApprovalDate": "2025-06-24",
+          "loanStartDate": "2025-09-14",
+          "approvedAmortizationAmount": "PHP503.17",
+          "deductionPerPayPeriod": "PHP503.17",
+          "loanEndDate": "2027-08-14",
+          "chequeAmount": "-",
+          "outstandingBalance": "PHP9771.41"
+        }
+      }
+    ]
+  }
+]

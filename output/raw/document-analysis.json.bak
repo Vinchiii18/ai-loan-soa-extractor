@@ -1,0 +1,4724 @@
+{
+  "status": "succeeded",
+  "createdDateTime": "2026-07-01T13:57:38Z",
+  "lastUpdatedDateTime": "2026-07-01T13:57:42Z",
+  "analyzeResult": {
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-layout",
+    "stringIndexType": "textElements",
+    "content": "https://www.pagibigfundservices.com/virtualpagibig_profile/Verification/Member/MPLaspx\nHi, Stephanie May\nHome\nLATEST UPDATES\nAnnouncements\nNews\nPRODUCTS\nRegular Savings (Mandatory Contributions)\nMP2 Savings (Voluntary Savings)\nHousing Loạn € Multi-Purpose Loan ‹\nCalamity Loan ‹\nLoyalty Card Plus\nVIRTUAL Pag-IBIG\nMULTI-PURPOSE LOAN\nPag-IBIG MID No.\n121299711201\nEmployer\nIBEX GLOBAL SOLUTIONS PHILIPPINES INC\nApplication No.\n251740000991451\nDate Granted\n06/25/2025\nLoan Granted\nPHP 9.885.91\nAmortization Period\n09/15/2025 - 08/15/2027\nOutstanding Balance\nPHP 9,771.41\nAmortization\nPHP 503.17\nPayments\nTransaction Date\nPag-IBIG Fund Receipt No.\nAmount\n09/12/2025\n25255995900041\n503.18\nYear :\n2025\nVIEW PAYMENTS\nO Heavy rain Today\nSearch\n1:05 AM 11/9/2025 :unselected: :selected:",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "angle": 0.2300781011581421,
+        "width": 46.875,
+        "height": 28.875,
+        "unit": "inch",
+        "words": [
+          {
+            "content": "https://www.pagibigfundservices.com/virtualpagibig_profile/Verification/Member/MPLaspx",
+            "polygon": [
+              3.8926,
+              0.7287,
+              24.8337,
+              0.6929,
+              24.8337,
+              1.4357,
+              3.8906,
+              1.4648
+            ],
+            "confidence": 0.649,
+            "span": {
+              "offset": 0,
+              "length": 86
+            }
+          },
+          {
+            "content": "Hi,",
+            "polygon": [
+              0.8507,
+              2.9554,
+              1.8381,
+              2.9529,
+              1.83,
+              3.9295,
+              0.8433,
+              3.9191
+            ],
+            "confidence": 0.972,
+            "span": {
+              "offset": 87,
+              "length": 3
+            }
+          },
+          {
+            "content": "Stephanie",
+            "polygon": [
+              2.0929,
+              2.9521,
+              5.2458,
+              2.964,
+              5.2395,
+              3.9239,
+              2.0854,
+              3.9261
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 91,
+              "length": 9
+            }
+          },
+          {
+            "content": "May",
+            "polygon": [
+              5.4369,
+              2.9643,
+              7.0724,
+              2.9664,
+              7.0724,
+              3.9328,
+              5.4304,
+              3.9223
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 101,
+              "length": 3
+            }
+          },
+          {
+            "content": "Home",
+            "polygon": [
+              2.2395,
+              5.7268,
+              3.7537,
+              5.7278,
+              3.7532,
+              6.3606,
+              2.2352,
+              6.3454
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 105,
+              "length": 4
+            }
+          },
+          {
+            "content": "LATEST",
+            "polygon": [
+              0.7076,
+              7.1754,
+              2.4493,
+              7.1784,
+              2.4452,
+              7.9,
+              0.7054,
+              7.8989
+            ],
+            "confidence": 0.988,
+            "span": {
+              "offset": 110,
+              "length": 6
+            }
+          },
+          {
+            "content": "UPDATES",
+            "polygon": [
+              2.5925,
+              7.1791,
+              4.7836,
+              7.1661,
+              4.7836,
+              7.9,
+              2.588,
+              7.9
+            ],
+            "confidence": 0.975,
+            "span": {
+              "offset": 117,
+              "length": 7
+            }
+          },
+          {
+            "content": "Announcements",
+            "polygon": [
+              1.1204,
+              8.9185,
+              4.9209,
+              8.9269,
+              4.9162,
+              9.5427,
+              1.1164,
+              9.5414
+            ],
+            "confidence": 0.912,
+            "span": {
+              "offset": 125,
+              "length": 13
+            }
+          },
+          {
+            "content": "News",
+            "polygon": [
+              1.1154,
+              10.8337,
+              2.4948,
+              10.8393,
+              2.4948,
+              11.4627,
+              1.1106,
+              11.4399
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 139,
+              "length": 4
+            }
+          },
+          {
+            "content": "PRODUCTS",
+            "polygon": [
+              0.6613,
+              12.382,
+              3.3875,
+              12.403,
+              3.3875,
+              13.075,
+              0.6572,
+              13.0601
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 144,
+              "length": 8
+            }
+          },
+          {
+            "content": "Regular",
+            "polygon": [
+              1.0728,
+              14.0826,
+              2.8731,
+              14.1083,
+              2.8681,
+              14.8331,
+              1.0696,
+              14.8081
+            ],
+            "confidence": 0.974,
+            "span": {
+              "offset": 153,
+              "length": 7
+            }
+          },
+          {
+            "content": "Savings",
+            "polygon": [
+              3.0162,
+              14.1086,
+              4.7607,
+              14.1172,
+              4.7607,
+              14.8382,
+              3.0112,
+              14.8349
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 161,
+              "length": 7
+            }
+          },
+          {
+            "content": "(Mandatory",
+            "polygon": [
+              1.0593,
+              14.9951,
+              3.1497,
+              15.0084,
+              3.1468,
+              15.6483,
+              1.0567,
+              15.6328
+            ],
+            "confidence": 0.602,
+            "span": {
+              "offset": 169,
+              "length": 10
+            }
+          },
+          {
+            "content": "Contributions)",
+            "polygon": [
+              3.2752,
+              15.0092,
+              5.9052,
+              15.0211,
+              5.9052,
+              15.654,
+              3.2721,
+              15.6495
+            ],
+            "confidence": 0.396,
+            "span": {
+              "offset": 180,
+              "length": 14
+            }
+          },
+          {
+            "content": "MP2",
+            "polygon": [
+              1.0673,
+              16.7708,
+              2.1783,
+              16.7856,
+              2.1701,
+              17.4865,
+              1.0623,
+              17.4669
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 195,
+              "length": 3
+            }
+          },
+          {
+            "content": "Savings",
+            "polygon": [
+              2.3287,
+              16.7877,
+              4.097,
+              16.8073,
+              4.097,
+              17.5156,
+              2.3208,
+              17.4898
+            ],
+            "confidence": 0.989,
+            "span": {
+              "offset": 199,
+              "length": 7
+            }
+          },
+          {
+            "content": "(Voluntary",
+            "polygon": [
+              1.0597,
+              17.6691,
+              2.8674,
+              17.6899,
+              2.8623,
+              18.3657,
+              1.0564,
+              18.3396
+            ],
+            "confidence": 0.396,
+            "span": {
+              "offset": 207,
+              "length": 10
+            }
+          },
+          {
+            "content": "Savings)",
+            "polygon": [
+              2.9997,
+              17.6908,
+              4.5776,
+              17.7049,
+              4.5776,
+              18.3835,
+              2.9945,
+              18.3662
+            ],
+            "confidence": 0.676,
+            "span": {
+              "offset": 218,
+              "length": 8
+            }
+          },
+          {
+            "content": "Housing",
+            "polygon": [
+              1.0634,
+              19.5037,
+              2.9484,
+              19.5256,
+              2.9423,
+              20.2102,
+              1.0569,
+              20.1914
+            ],
+            "confidence": 0.986,
+            "span": {
+              "offset": 227,
+              "length": 7
+            }
+          },
+          {
+            "content": "Loạn",
+            "polygon": [
+              3.083,
+              19.5278,
+              4.3259,
+              19.5382,
+              4.3259,
+              20.2194,
+              3.0767,
+              20.213
+            ],
+            "confidence": 0.631,
+            "span": {
+              "offset": 235,
+              "length": 4
+            }
+          },
+          {
+            "content": "€",
+            "polygon": [
+              7.7111,
+              19.3014,
+              8.1024,
+              19.2982,
+              8.1024,
+              19.7646,
+              7.71,
+              19.7671
+            ],
+            "confidence": 0.263,
+            "span": {
+              "offset": 240,
+              "length": 1
+            }
+          },
+          {
+            "content": "Multi-Purpose",
+            "polygon": [
+              1.0827,
+              21.4014,
+              4.2973,
+              21.4438,
+              4.2917,
+              22.1298,
+              1.0764,
+              22.0927
+            ],
+            "confidence": 0.925,
+            "span": {
+              "offset": 242,
+              "length": 13
+            }
+          },
+          {
+            "content": "Loan",
+            "polygon": [
+              4.4331,
+              21.4454,
+              5.6534,
+              21.4517,
+              5.6534,
+              22.1296,
+              4.4276,
+              22.1319
+            ],
+            "confidence": 0.976,
+            "span": {
+              "offset": 256,
+              "length": 4
+            }
+          },
+          {
+            "content": "‹",
+            "polygon": [
+              7.7388,
+              21.2604,
+              8.1253,
+              21.2568,
+              8.1253,
+              21.6952,
+              7.7381,
+              21.6954
+            ],
+            "confidence": 0.191,
+            "span": {
+              "offset": 261,
+              "length": 1
+            }
+          },
+          {
+            "content": "Calamity",
+            "polygon": [
+              1.0654,
+              23.3116,
+              3.0133,
+              23.3385,
+              3.0049,
+              24.0454,
+              1.0553,
+              24.0234
+            ],
+            "confidence": 0.986,
+            "span": {
+              "offset": 263,
+              "length": 8
+            }
+          },
+          {
+            "content": "Loan",
+            "polygon": [
+              3.1525,
+              23.3393,
+              4.3945,
+              23.3506,
+              4.3945,
+              24.0581,
+              3.1443,
+              24.0482
+            ],
+            "confidence": 0.989,
+            "span": {
+              "offset": 272,
+              "length": 4
+            }
+          },
+          {
+            "content": "‹",
+            "polygon": [
+              7.7505,
+              23.1691,
+              8.1482,
+              23.1709,
+              8.1482,
+              23.6396,
+              7.7484,
+              23.6363
+            ],
+            "confidence": 0.267,
+            "span": {
+              "offset": 277,
+              "length": 1
+            }
+          },
+          {
+            "content": "Loyalty",
+            "polygon": [
+              1.1109,
+              25.2451,
+              2.7436,
+              25.2506,
+              2.7397,
+              25.9626,
+              1.1069,
+              25.9562
+            ],
+            "confidence": 0.973,
+            "span": {
+              "offset": 279,
+              "length": 7
+            }
+          },
+          {
+            "content": "Card",
+            "polygon": [
+              2.8835,
+              25.2501,
+              3.9098,
+              25.2522,
+              3.9053,
+              25.9669,
+              2.8797,
+              25.9641
+            ],
+            "confidence": 0.989,
+            "span": {
+              "offset": 287,
+              "length": 4
+            }
+          },
+          {
+            "content": "Plus",
+            "polygon": [
+              4.0498,
+              25.2535,
+              5.0812,
+              25.2564,
+              5.0812,
+              25.9658,
+              4.0452,
+              25.9669
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 292,
+              "length": 4
+            }
+          },
+          {
+            "content": "VIRTUAL",
+            "polygon": [
+              14.6701,
+              2.8376,
+              18.8462,
+              2.8679,
+              18.8359,
+              3.9953,
+              14.6558,
+              3.9485
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 297,
+              "length": 7
+            }
+          },
+          {
+            "content": "Pag-IBIG",
+            "polygon": [
+              19.1445,
+              2.8679,
+              23.3231,
+              2.9009,
+              23.3231,
+              4.0518,
+              19.1346,
+              3.9991
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 305,
+              "length": 8
+            }
+          },
+          {
+            "content": "MULTI-PURPOSE",
+            "polygon": [
+              23.6578,
+              5.5474,
+              29.797,
+              5.5275,
+              29.7959,
+              6.5719,
+              23.6531,
+              6.5719
+            ],
+            "confidence": 0.989,
+            "span": {
+              "offset": 314,
+              "length": 13
+            }
+          },
+          {
+            "content": "LOAN",
+            "polygon": [
+              30.0351,
+              5.529,
+              32.2723,
+              5.5313,
+              32.2723,
+              6.5675,
+              30.0335,
+              6.5719
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 328,
+              "length": 4
+            }
+          },
+          {
+            "content": "Pag-IBIG",
+            "polygon": [
+              9.8942,
+              8.3232,
+              12.3233,
+              8.3363,
+              12.3207,
+              9.0788,
+              9.8914,
+              9.0638
+            ],
+            "confidence": 0.909,
+            "span": {
+              "offset": 333,
+              "length": 8
+            }
+          },
+          {
+            "content": "MID",
+            "polygon": [
+              12.5055,
+              8.3381,
+              13.635,
+              8.3367,
+              13.6314,
+              9.0762,
+              12.5023,
+              9.0778
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 342,
+              "length": 3
+            }
+          },
+          {
+            "content": "No.",
+            "polygon": [
+              13.805,
+              8.3365,
+              14.7858,
+              8.3387,
+              14.7858,
+              9.076,
+              13.801,
+              9.0765
+            ],
+            "confidence": 0.974,
+            "span": {
+              "offset": 346,
+              "length": 3
+            }
+          },
+          {
+            "content": "121299711201",
+            "polygon": [
+              16.1995,
+              8.3892,
+              19.5465,
+              8.3871,
+              19.5465,
+              9.0623,
+              16.1981,
+              9.0423
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 350,
+              "length": 12
+            }
+          },
+          {
+            "content": "Employer",
+            "polygon": [
+              28.4089,
+              8.4489,
+              31.0364,
+              8.4481,
+              31.0364,
+              9.2209,
+              28.4045,
+              9.2112
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 363,
+              "length": 8
+            }
+          },
+          {
+            "content": "IBEX",
+            "polygon": [
+              34.5636,
+              8.4089,
+              35.6679,
+              8.4063,
+              35.6661,
+              9.0764,
+              34.5623,
+              9.071
+            ],
+            "confidence": 0.972,
+            "span": {
+              "offset": 372,
+              "length": 4
+            }
+          },
+          {
+            "content": "GLOBAL",
+            "polygon": [
+              35.8017,
+              8.4057,
+              37.6086,
+              8.4014,
+              37.6058,
+              9.0806,
+              35.7998,
+              9.077
+            ],
+            "confidence": 0.98,
+            "span": {
+              "offset": 377,
+              "length": 6
+            }
+          },
+          {
+            "content": "SOLUTIONS",
+            "polygon": [
+              37.7871,
+              8.4013,
+              40.4194,
+              8.4022,
+              40.4154,
+              9.0901,
+              37.7844,
+              9.0816
+            ],
+            "confidence": 0.936,
+            "span": {
+              "offset": 384,
+              "length": 9
+            }
+          },
+          {
+            "content": "PHILIPPINES",
+            "polygon": [
+              40.5533,
+              8.4036,
+              43.1744,
+              8.4089,
+              43.1703,
+              9.0907,
+              40.5489,
+              9.0898
+            ],
+            "confidence": 0.974,
+            "span": {
+              "offset": 394,
+              "length": 11
+            }
+          },
+          {
+            "content": "INC",
+            "polygon": [
+              43.3083,
+              8.4086,
+              44.2657,
+              8.4083,
+              44.2657,
+              9.0907,
+              43.3041,
+              9.0907
+            ],
+            "confidence": 0.984,
+            "span": {
+              "offset": 406,
+              "length": 3
+            }
+          },
+          {
+            "content": "Application",
+            "polygon": [
+              9.8922,
+              10.393,
+              12.8428,
+              10.4028,
+              12.84,
+              11.1287,
+              9.8922,
+              11.1287
+            ],
+            "confidence": 0.977,
+            "span": {
+              "offset": 410,
+              "length": 11
+            }
+          },
+          {
+            "content": "No.",
+            "polygon": [
+              12.9987,
+              10.4044,
+              13.8931,
+              10.4032,
+              13.8931,
+              11.1287,
+              12.996,
+              11.1287
+            ],
+            "confidence": 0.836,
+            "span": {
+              "offset": 422,
+              "length": 3
+            }
+          },
+          {
+            "content": "251740000991451",
+            "polygon": [
+              22.1775,
+              10.84,
+              26.7792,
+              10.8407,
+              26.7792,
+              11.5408,
+              22.1771,
+              11.5369
+            ],
+            "confidence": 0.977,
+            "span": {
+              "offset": 426,
+              "length": 15
+            }
+          },
+          {
+            "content": "Date",
+            "polygon": [
+              28.3951,
+              10.4823,
+              29.654,
+              10.4801,
+              29.6527,
+              11.1629,
+              28.396,
+              11.163
+            ],
+            "confidence": 0.991,
+            "span": {
+              "offset": 442,
+              "length": 4
+            }
+          },
+          {
+            "content": "Granted",
+            "polygon": [
+              29.7889,
+              10.48,
+              31.8375,
+              10.471,
+              31.8375,
+              11.1615,
+              29.7874,
+              11.1629
+            ],
+            "confidence": 0.98,
+            "span": {
+              "offset": 447,
+              "length": 7
+            }
+          },
+          {
+            "content": "06/25/2025",
+            "polygon": [
+              42.2785,
+              10.8615,
+              45.227,
+              10.8689,
+              45.227,
+              11.5852,
+              42.275,
+              11.5715
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 455,
+              "length": 10
+            }
+          },
+          {
+            "content": "Loan",
+            "polygon": [
+              9.8758,
+              12.8562,
+              11.1982,
+              12.8583,
+              11.1952,
+              13.5265,
+              9.8739,
+              13.5198
+            ],
+            "confidence": 0.987,
+            "span": {
+              "offset": 466,
+              "length": 4
+            }
+          },
+          {
+            "content": "Granted",
+            "polygon": [
+              11.3415,
+              12.8579,
+              13.4583,
+              12.8552,
+              13.4583,
+              13.533,
+              11.3383,
+              13.5283
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 471,
+              "length": 7
+            }
+          },
+          {
+            "content": "PHP",
+            "polygon": [
+              23.4999,
+              13.2384,
+              24.564,
+              13.2454,
+              24.5619,
+              13.91,
+              23.499,
+              13.9118
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 479,
+              "length": 3
+            }
+          },
+          {
+            "content": "9.885.91",
+            "polygon": [
+              24.7066,
+              13.2462,
+              26.7563,
+              13.242,
+              26.7563,
+              13.9216,
+              24.7044,
+              13.9088
+            ],
+            "confidence": 0.625,
+            "span": {
+              "offset": 483,
+              "length": 8
+            }
+          },
+          {
+            "content": "Amortization",
+            "polygon": [
+              28.3819,
+              12.9307,
+              31.6524,
+              12.9294,
+              31.6515,
+              13.5873,
+              28.3808,
+              13.583
+            ],
+            "confidence": 0.975,
+            "span": {
+              "offset": 492,
+              "length": 12
+            }
+          },
+          {
+            "content": "Period",
+            "polygon": [
+              31.8143,
+              12.9286,
+              33.4854,
+              12.9263,
+              33.4854,
+              13.5942,
+              31.8133,
+              13.5882
+            ],
+            "confidence": 0.976,
+            "span": {
+              "offset": 505,
+              "length": 6
+            }
+          },
+          {
+            "content": "09/15/2025",
+            "polygon": [
+              38.9453,
+              13.2558,
+              41.9014,
+              13.2672,
+              41.8986,
+              14.0048,
+              38.9426,
+              13.9904
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 512,
+              "length": 10
+            }
+          },
+          {
+            "content": "-",
+            "polygon": [
+              42.0589,
+              13.2662,
+              42.2407,
+              13.2662,
+              42.2376,
+              14.006,
+              42.0562,
+              14.0049
+            ],
+            "confidence": 0.99,
+            "span": {
+              "offset": 523,
+              "length": 1
+            }
+          },
+          {
+            "content": "08/15/2027",
+            "polygon": [
+              42.386,
+              13.2663,
+              45.2499,
+              13.2746,
+              45.2499,
+              14.0091,
+              42.3827,
+              14.007
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 525,
+              "length": 10
+            }
+          },
+          {
+            "content": "Outstanding",
+            "polygon": [
+              9.8694,
+              15.2828,
+              13.1607,
+              15.3136,
+              13.1607,
+              16.0219,
+              9.8656,
+              15.9705
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 536,
+              "length": 11
+            }
+          },
+          {
+            "content": "Balance",
+            "polygon": [
+              9.8828,
+              16.1308,
+              11.9705,
+              16.139,
+              11.9705,
+              16.7993,
+              9.8798,
+              16.7844
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 548,
+              "length": 7
+            }
+          },
+          {
+            "content": "PHP",
+            "polygon": [
+              23.4346,
+              15.6366,
+              24.553,
+              15.6421,
+              24.5492,
+              16.3101,
+              23.4323,
+              16.3075
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 556,
+              "length": 3
+            }
+          },
+          {
+            "content": "9,771.41",
+            "polygon": [
+              24.7065,
+              15.6435,
+              26.7563,
+              15.6512,
+              26.7563,
+              16.3266,
+              24.7025,
+              16.3094
+            ],
+            "confidence": 0.655,
+            "span": {
+              "offset": 560,
+              "length": 8
+            }
+          },
+          {
+            "content": "Amortization",
+            "polygon": [
+              28.3812,
+              15.3507,
+              31.723,
+              15.3681,
+              31.723,
+              15.9989,
+              28.3778,
+              15.9655
+            ],
+            "confidence": 0.98,
+            "span": {
+              "offset": 569,
+              "length": 12
+            }
+          },
+          {
+            "content": "PHP",
+            "polygon": [
+              42.3566,
+              15.6953,
+              43.4596,
+              15.7007,
+              43.4557,
+              16.401,
+              42.3532,
+              16.3944
+            ],
+            "confidence": 0.994,
+            "span": {
+              "offset": 582,
+              "length": 3
+            }
+          },
+          {
+            "content": "503.17",
+            "polygon": [
+              43.6204,
+              15.7043,
+              45.2499,
+              15.7116,
+              45.2479,
+              16.4097,
+              43.617,
+              16.4005
+            ],
+            "confidence": 0.976,
+            "span": {
+              "offset": 586,
+              "length": 6
+            }
+          },
+          {
+            "content": "Payments",
+            "polygon": [
+              9.86,
+              17.8841,
+              12.8174,
+              17.9023,
+              12.8174,
+              18.6318,
+              9.8565,
+              18.6286
+            ],
+            "confidence": 0.994,
+            "span": {
+              "offset": 593,
+              "length": 8
+            }
+          },
+          {
+            "content": "Transaction",
+            "polygon": [
+              10.3631,
+              20.554,
+              13.2916,
+              20.5496,
+              13.2902,
+              21.1868,
+              10.3606,
+              21.1858
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 602,
+              "length": 11
+            }
+          },
+          {
+            "content": "Date",
+            "polygon": [
+              13.4474,
+              20.5486,
+              14.6713,
+              20.5466,
+              14.6713,
+              21.1935,
+              13.446,
+              21.1886
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 614,
+              "length": 4
+            }
+          },
+          {
+            "content": "Pag-IBIG",
+            "polygon": [
+              24.7293,
+              20.5001,
+              26.9685,
+              20.4983,
+              26.9666,
+              21.2115,
+              24.7274,
+              21.2159
+            ],
+            "confidence": 0.836,
+            "span": {
+              "offset": 619,
+              "length": 8
+            }
+          },
+          {
+            "content": "Fund",
+            "polygon": [
+              27.1318,
+              20.499,
+              28.3097,
+              20.5015,
+              28.3077,
+              21.2132,
+              27.13,
+              21.2123
+            ],
+            "confidence": 0.989,
+            "span": {
+              "offset": 628,
+              "length": 4
+            }
+          },
+          {
+            "content": "Receipt",
+            "polygon": [
+              28.4846,
+              20.5009,
+              30.1873,
+              20.5047,
+              30.1844,
+              21.2209,
+              28.4825,
+              21.2157
+            ],
+            "confidence": 0.98,
+            "span": {
+              "offset": 633,
+              "length": 7
+            }
+          },
+          {
+            "content": "No.",
+            "polygon": [
+              30.3273,
+              20.5056,
+              31.2602,
+              20.5127,
+              31.2574,
+              21.2167,
+              30.3242,
+              21.2203
+            ],
+            "confidence": 0.82,
+            "span": {
+              "offset": 641,
+              "length": 3
+            }
+          },
+          {
+            "content": "Amount",
+            "polygon": [
+              35.5032,
+              20.6338,
+              37.6968,
+              20.638,
+              37.6968,
+              21.226,
+              35.5002,
+              21.2191
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 645,
+              "length": 6
+            }
+          },
+          {
+            "content": "09/12/2025",
+            "polygon": [
+              10.3348,
+              22.2796,
+              13.1836,
+              22.2831,
+              13.1836,
+              22.9443,
+              10.332,
+              22.937
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 652,
+              "length": 10
+            }
+          },
+          {
+            "content": "25255995900041",
+            "polygon": [
+              24.7256,
+              22.2266,
+              28.7704,
+              22.2437,
+              28.7704,
+              22.8985,
+              24.7239,
+              22.8824
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 663,
+              "length": 14
+            }
+          },
+          {
+            "content": "503.18",
+            "polygon": [
+              43.7375,
+              22.3283,
+              45.3873,
+              22.3249,
+              45.3873,
+              22.9262,
+              43.7366,
+              22.9266
+            ],
+            "confidence": 0.963,
+            "span": {
+              "offset": 678,
+              "length": 6
+            }
+          },
+          {
+            "content": "Year",
+            "polygon": [
+              22.6418,
+              25.3198,
+              23.6243,
+              25.329,
+              23.6196,
+              25.9588,
+              22.6382,
+              25.9374
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 685,
+              "length": 4
+            }
+          },
+          {
+            "content": ":",
+            "polygon": [
+              23.7472,
+              25.3287,
+              24.0326,
+              25.3336,
+              24.0289,
+              25.9575,
+              23.7427,
+              25.9597
+            ],
+            "confidence": 0.977,
+            "span": {
+              "offset": 690,
+              "length": 1
+            }
+          },
+          {
+            "content": "2025",
+            "polygon": [
+              24.8105,
+              25.2821,
+              26.1612,
+              25.2834,
+              26.1612,
+              25.9351,
+              24.8086,
+              25.9231
+            ],
+            "confidence": 0.989,
+            "span": {
+              "offset": 692,
+              "length": 4
+            }
+          },
+          {
+            "content": "VIEW",
+            "polygon": [
+              28.498,
+              25.3098,
+              29.6512,
+              25.3132,
+              29.6509,
+              25.9726,
+              28.4972,
+              25.9706
+            ],
+            "confidence": 0.983,
+            "span": {
+              "offset": 697,
+              "length": 4
+            }
+          },
+          {
+            "content": "PAYMENTS",
+            "polygon": [
+              29.9206,
+              25.3163,
+              32.5928,
+              25.3353,
+              32.5924,
+              25.9898,
+              29.9206,
+              25.974
+            ],
+            "confidence": 0.99,
+            "span": {
+              "offset": 702,
+              "length": 8
+            }
+          },
+          {
+            "content": "O",
+            "polygon": [
+              0.9467,
+              27.041,
+              1.3178,
+              27.0682,
+              1.3029,
+              27.5011,
+              0.9307,
+              27.4881
+            ],
+            "confidence": 0.216,
+            "span": {
+              "offset": 711,
+              "length": 1
+            }
+          },
+          {
+            "content": "Heavy",
+            "polygon": [
+              1.5085,
+              27.078,
+              2.7267,
+              27.1032,
+              2.7192,
+              27.6371,
+              1.4995,
+              27.6066
+            ],
+            "confidence": 0.846,
+            "span": {
+              "offset": 713,
+              "length": 5
+            }
+          },
+          {
+            "content": "rain",
+            "polygon": [
+              2.8311,
+              27.1051,
+              3.7308,
+              27.1318,
+              3.7301,
+              27.6566,
+              2.8243,
+              27.6379
+            ],
+            "confidence": 0.92,
+            "span": {
+              "offset": 719,
+              "length": 4
+            }
+          },
+          {
+            "content": "Today",
+            "polygon": [
+              1.5575,
+              27.6607,
+              2.8381,
+              27.7245,
+              2.8381,
+              28.2567,
+              1.5458,
+              28.1914
+            ],
+            "confidence": 0.656,
+            "span": {
+              "offset": 724,
+              "length": 5
+            }
+          },
+          {
+            "content": "Search",
+            "polygon": [
+              17.2355,
+              27.5451,
+              18.9285,
+              27.5506,
+              18.9285,
+              28.1651,
+              17.2358,
+              28.1651
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 730,
+              "length": 6
+            }
+          },
+          {
+            "content": "1:05",
+            "polygon": [
+              44.4778,
+              27.1764,
+              45.3646,
+              27.1744,
+              45.3654,
+              27.704,
+              44.4795,
+              27.6994
+            ],
+            "confidence": 0.548,
+            "span": {
+              "offset": 737,
+              "length": 4
+            }
+          },
+          {
+            "content": "AM",
+            "polygon": [
+              45.4689,
+              27.1714,
+              46.2515,
+              27.1655,
+              46.2529,
+              27.7016,
+              45.4698,
+              27.7023
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 742,
+              "length": 2
+            }
+          },
+          {
+            "content": "11/9/2025",
+            "polygon": [
+              44.092,
+              27.7702,
+              46.2341,
+              27.746,
+              46.2341,
+              28.3105,
+              44.0933,
+              28.3167
+            ],
+            "confidence": 0.81,
+            "span": {
+              "offset": 745,
+              "length": 9
+            }
+          }
+        ],
+        "selectionMarks": [
+          {
+            "state": "unselected",
+            "polygon": [
+              0.8861,
+              27.655,
+              1.3979,
+              27.655,
+              1.3979,
+              28.1447,
+              0.8861,
+              28.1447
+            ],
+            "confidence": 0.1,
+            "span": {
+              "offset": 755,
+              "length": 12
+            }
+          },
+          {
+            "state": "selected",
+            "polygon": [
+              0.8228,
+              26.9835,
+              1.4692,
+              26.9835,
+              1.4692,
+              27.6291,
+              0.8228,
+              27.6291
+            ],
+            "confidence": 0.1,
+            "span": {
+              "offset": 768,
+              "length": 10
+            }
+          }
+        ],
+        "lines": [
+          {
+            "content": "https://www.pagibigfundservices.com/virtualpagibig_profile/Verification/Member/MPLaspx",
+            "polygon": [
+              3.8895,
+              0.6699,
+              24.8171,
+              0.6412,
+              24.8182,
+              1.4229,
+              3.8906,
+              1.4525
+            ],
+            "spans": [
+              {
+                "offset": 0,
+                "length": 86
+              }
+            ]
+          },
+          {
+            "content": "Hi, Stephanie May",
+            "polygon": [
+              0.8443,
+              2.9467,
+              7.0498,
+              2.9529,
+              7.0489,
+              3.9218,
+              0.8434,
+              3.9156
+            ],
+            "spans": [
+              {
+                "offset": 87,
+                "length": 17
+              }
+            ]
+          },
+          {
+            "content": "Home",
+            "polygon": [
+              2.1985,
+              5.7149,
+              3.7368,
+              5.7262,
+              3.7322,
+              6.3513,
+              2.1939,
+              6.34
+            ],
+            "spans": [
+              {
+                "offset": 105,
+                "length": 4
+              }
+            ]
+          },
+          {
+            "content": "LATEST UPDATES",
+            "polygon": [
+              0.7051,
+              7.166,
+              4.7647,
+              7.1644,
+              4.765,
+              7.8918,
+              0.7054,
+              7.8934
+            ],
+            "spans": [
+              {
+                "offset": 110,
+                "length": 14
+              }
+            ]
+          },
+          {
+            "content": "Announcements",
+            "polygon": [
+              1.1175,
+              8.9185,
+              4.906,
+              8.925,
+              4.905,
+              9.5396,
+              1.1165,
+              9.5331
+            ],
+            "spans": [
+              {
+                "offset": 125,
+                "length": 13
+              }
+            ]
+          },
+          {
+            "content": "News",
+            "polygon": [
+              1.1155,
+              10.831,
+              2.4923,
+              10.8388,
+              2.4858,
+              11.4519,
+              1.1091,
+              11.4375
+            ],
+            "spans": [
+              {
+                "offset": 139,
+                "length": 4
+              }
+            ]
+          },
+          {
+            "content": "PRODUCTS",
+            "polygon": [
+              0.6613,
+              12.382,
+              3.3831,
+              12.4015,
+              3.3782,
+              13.075,
+              0.6565,
+              13.0567
+            ],
+            "spans": [
+              {
+                "offset": 144,
+                "length": 8
+              }
+            ]
+          },
+          {
+            "content": "Regular Savings",
+            "polygon": [
+              1.0728,
+              14.0826,
+              4.7542,
+              14.1117,
+              4.7484,
+              14.8382,
+              1.067,
+              14.8121
+            ],
+            "spans": [
+              {
+                "offset": 153,
+                "length": 15
+              }
+            ]
+          },
+          {
+            "content": "(Mandatory Contributions)",
+            "polygon": [
+              1.0593,
+              14.9951,
+              5.9027,
+              15.0181,
+              5.8997,
+              15.6529,
+              1.0562,
+              15.6299
+            ],
+            "spans": [
+              {
+                "offset": 169,
+                "length": 25
+              }
+            ]
+          },
+          {
+            "content": "MP2 Savings",
+            "polygon": [
+              1.0673,
+              16.7699,
+              4.0778,
+              16.8021,
+              4.0703,
+              17.5069,
+              1.0598,
+              17.4747
+            ],
+            "spans": [
+              {
+                "offset": 195,
+                "length": 11
+              }
+            ]
+          },
+          {
+            "content": "(Voluntary Savings)",
+            "polygon": [
+              1.0597,
+              17.6691,
+              4.5578,
+              17.7019,
+              4.5516,
+              18.3727,
+              1.0534,
+              18.3399
+            ],
+            "spans": [
+              {
+                "offset": 207,
+                "length": 19
+              }
+            ]
+          },
+          {
+            "content": "Housing Loạn",
+            "polygon": [
+              1.0635,
+              19.5029,
+              4.3216,
+              19.5365,
+              4.3146,
+              20.2159,
+              1.0565,
+              20.1822
+            ],
+            "spans": [
+              {
+                "offset": 227,
+                "length": 12
+              }
+            ]
+          },
+          {
+            "content": "€",
+            "polygon": [
+              7.7111,
+              19.298,
+              8.0988,
+              19.2988,
+              8.0978,
+              19.7644,
+              7.7101,
+              19.7635
+            ],
+            "spans": [
+              {
+                "offset": 240,
+                "length": 1
+              }
+            ]
+          },
+          {
+            "content": "Multi-Purpose Loan",
+            "polygon": [
+              1.0827,
+              21.4014,
+              5.6462,
+              21.4511,
+              5.6387,
+              22.1422,
+              1.0757,
+              22.0926
+            ],
+            "spans": [
+              {
+                "offset": 242,
+                "length": 18
+              }
+            ]
+          },
+          {
+            "content": "‹",
+            "polygon": [
+              7.7389,
+              21.2575,
+              8.11,
+              21.2581,
+              8.1093,
+              21.6937,
+              7.7381,
+              21.693
+            ],
+            "spans": [
+              {
+                "offset": 261,
+                "length": 1
+              }
+            ]
+          },
+          {
+            "content": "Calamity Loan",
+            "polygon": [
+              1.064,
+              23.3107,
+              4.3916,
+              23.3503,
+              4.3831,
+              24.052,
+              1.0555,
+              24.0116
+            ],
+            "spans": [
+              {
+                "offset": 263,
+                "length": 13
+              }
+            ]
+          },
+          {
+            "content": "‹",
+            "polygon": [
+              7.7505,
+              23.168,
+              8.1452,
+              23.1697,
+              8.1432,
+              23.637,
+              7.7484,
+              23.6353
+            ],
+            "spans": [
+              {
+                "offset": 277,
+                "length": 1
+              }
+            ]
+          },
+          {
+            "content": "Loyalty Card Plus",
+            "polygon": [
+              1.1088,
+              25.2447,
+              5.0665,
+              25.2553,
+              5.0646,
+              25.961,
+              1.1069,
+              25.9504
+            ],
+            "spans": [
+              {
+                "offset": 279,
+                "length": 17
+              }
+            ]
+          },
+          {
+            "content": "VIRTUAL Pag-IBIG",
+            "polygon": [
+              14.6708,
+              2.8165,
+              23.3199,
+              2.8997,
+              23.305,
+              4.053,
+              14.6559,
+              3.947
+            ],
+            "spans": [
+              {
+                "offset": 297,
+                "length": 16
+              }
+            ]
+          },
+          {
+            "content": "MULTI-PURPOSE LOAN",
+            "polygon": [
+              23.6505,
+              5.5439,
+              32.2609,
+              5.5209,
+              32.2637,
+              6.5601,
+              23.6533,
+              6.5719
+            ],
+            "spans": [
+              {
+                "offset": 314,
+                "length": 18
+              }
+            ]
+          },
+          {
+            "content": "Pag-IBIG MID No.",
+            "polygon": [
+              9.8942,
+              8.3191,
+              14.7848,
+              8.3387,
+              14.7818,
+              9.0777,
+              9.8912,
+              9.0581
+            ],
+            "spans": [
+              {
+                "offset": 333,
+                "length": 16
+              }
+            ]
+          },
+          {
+            "content": "121299711201",
+            "polygon": [
+              16.1995,
+              8.3808,
+              19.5448,
+              8.3866,
+              19.5434,
+              9.0505,
+              16.1981,
+              9.0436
+            ],
+            "spans": [
+              {
+                "offset": 350,
+                "length": 12
+              }
+            ]
+          },
+          {
+            "content": "Employer",
+            "polygon": [
+              28.4084,
+              8.4322,
+              31.0334,
+              8.4453,
+              31.0296,
+              9.2138,
+              28.4045,
+              9.2007
+            ],
+            "spans": [
+              {
+                "offset": 363,
+                "length": 8
+              }
+            ]
+          },
+          {
+            "content": "IBEX GLOBAL SOLUTIONS PHILIPPINES INC",
+            "polygon": [
+              34.5637,
+              8.3867,
+              44.2561,
+              8.4082,
+              44.2545,
+              9.0886,
+              34.5622,
+              9.0671
+            ],
+            "spans": [
+              {
+                "offset": 372,
+                "length": 37
+              }
+            ]
+          },
+          {
+            "content": "Application No.",
+            "polygon": [
+              9.8922,
+              10.393,
+              13.8819,
+              10.3999,
+              13.8807,
+              11.1274,
+              9.8909,
+              11.1206
+            ],
+            "spans": [
+              {
+                "offset": 410,
+                "length": 15
+              }
+            ]
+          },
+          {
+            "content": "251740000991451",
+            "polygon": [
+              22.1775,
+              10.8338,
+              26.7587,
+              10.8364,
+              26.7583,
+              11.5362,
+              22.1771,
+              11.5337
+            ],
+            "spans": [
+              {
+                "offset": 426,
+                "length": 15
+              }
+            ]
+          },
+          {
+            "content": "Date Granted",
+            "polygon": [
+              28.3951,
+              10.4691,
+              31.8358,
+              10.4689,
+              31.8359,
+              11.1539,
+              28.3952,
+              11.1541
+            ],
+            "spans": [
+              {
+                "offset": 442,
+                "length": 12
+              }
+            ]
+          },
+          {
+            "content": "06/25/2025",
+            "polygon": [
+              42.2774,
+              10.8587,
+              45.2232,
+              10.8684,
+              45.2209,
+              11.5728,
+              42.2751,
+              11.5631
+            ],
+            "spans": [
+              {
+                "offset": 455,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "Loan Granted",
+            "polygon": [
+              9.8745,
+              12.8499,
+              13.451,
+              12.8533,
+              13.4504,
+              13.5253,
+              9.8739,
+              13.5219
+            ],
+            "spans": [
+              {
+                "offset": 466,
+                "length": 12
+              }
+            ]
+          },
+          {
+            "content": "PHP 9.885.91",
+            "polygon": [
+              23.4122,
+              13.2353,
+              26.7561,
+              13.2418,
+              26.7546,
+              13.91,
+              23.4106,
+              13.9024
+            ],
+            "spans": [
+              {
+                "offset": 479,
+                "length": 12
+              }
+            ]
+          },
+          {
+            "content": "Amortization Period",
+            "polygon": [
+              28.3813,
+              12.9221,
+              33.4692,
+              12.9256,
+              33.4687,
+              13.5852,
+              28.3808,
+              13.5817
+            ],
+            "spans": [
+              {
+                "offset": 492,
+                "length": 19
+              }
+            ]
+          },
+          {
+            "content": "09/15/2025 - 08/15/2027",
+            "polygon": [
+              38.9442,
+              13.2542,
+              45.2352,
+              13.268,
+              45.2336,
+              14.0025,
+              38.9426,
+              13.9887
+            ],
+            "spans": [
+              {
+                "offset": 512,
+                "length": 23
+              }
+            ]
+          },
+          {
+            "content": "Outstanding",
+            "polygon": [
+              9.8697,
+              15.2733,
+              13.1455,
+              15.3107,
+              13.1348,
+              16.0091,
+              9.8648,
+              15.9589
+            ],
+            "spans": [
+              {
+                "offset": 536,
+                "length": 11
+              }
+            ]
+          },
+          {
+            "content": "Balance",
+            "polygon": [
+              9.8828,
+              16.1267,
+              11.9562,
+              16.1363,
+              11.9532,
+              16.7892,
+              9.8798,
+              16.7796
+            ],
+            "spans": [
+              {
+                "offset": 548,
+                "length": 7
+              }
+            ]
+          },
+          {
+            "content": "PHP 9,771.41",
+            "polygon": [
+              23.4346,
+              15.6363,
+              26.7435,
+              15.6508,
+              26.7406,
+              16.3194,
+              23.4316,
+              16.3048
+            ],
+            "spans": [
+              {
+                "offset": 556,
+                "length": 12
+              }
+            ]
+          },
+          {
+            "content": "Amortization",
+            "polygon": [
+              28.3812,
+              15.3491,
+              31.719,
+              15.3675,
+              31.7156,
+              15.9878,
+              28.3778,
+              15.9694
+            ],
+            "spans": [
+              {
+                "offset": 569,
+                "length": 12
+              }
+            ]
+          },
+          {
+            "content": "PHP 503.17",
+            "polygon": [
+              42.3567,
+              15.6926,
+              45.23,
+              15.7073,
+              45.2264,
+              16.4012,
+              42.3531,
+              16.3865
+            ],
+            "spans": [
+              {
+                "offset": 582,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "Payments",
+            "polygon": [
+              9.8601,
+              17.8803,
+              12.8156,
+              17.8985,
+              12.8111,
+              18.6343,
+              9.8556,
+              18.6161
+            ],
+            "spans": [
+              {
+                "offset": 593,
+                "length": 8
+              }
+            ]
+          },
+          {
+            "content": "Transaction Date",
+            "polygon": [
+              10.3616,
+              20.5399,
+              14.6507,
+              20.5465,
+              14.6497,
+              21.1826,
+              10.3606,
+              21.176
+            ],
+            "spans": [
+              {
+                "offset": 602,
+                "length": 16
+              }
+            ]
+          },
+          {
+            "content": "Pag-IBIG Fund Receipt No.",
+            "polygon": [
+              24.7284,
+              20.4941,
+              31.2481,
+              20.502,
+              31.2472,
+              21.2124,
+              24.7275,
+              21.204
+            ],
+            "spans": [
+              {
+                "offset": 619,
+                "length": 25
+              }
+            ]
+          },
+          {
+            "content": "Amount",
+            "polygon": [
+              35.5025,
+              20.6315,
+              37.6804,
+              20.6373,
+              37.6781,
+              21.2178,
+              35.5003,
+              21.2093
+            ],
+            "spans": [
+              {
+                "offset": 645,
+                "length": 6
+              }
+            ]
+          },
+          {
+            "content": "09/12/2025",
+            "polygon": [
+              10.3337,
+              22.275,
+              13.1619,
+              22.2825,
+              13.1602,
+              22.9334,
+              10.332,
+              22.926
+            ],
+            "spans": [
+              {
+                "offset": 652,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "25255995900041",
+            "polygon": [
+              24.7256,
+              22.2227,
+              28.7523,
+              22.2407,
+              28.7494,
+              22.8949,
+              24.7227,
+              22.8769
+            ],
+            "spans": [
+              {
+                "offset": 663,
+                "length": 14
+              }
+            ]
+          },
+          {
+            "content": "503.18",
+            "polygon": [
+              43.735,
+              22.326,
+              45.37,
+              22.3214,
+              45.3717,
+              22.9197,
+              43.7367,
+              22.9243
+            ],
+            "spans": [
+              {
+                "offset": 678,
+                "length": 6
+              }
+            ]
+          },
+          {
+            "content": "Year :",
+            "polygon": [
+              22.6421,
+              25.3064,
+              24.0258,
+              25.3311,
+              24.0146,
+              25.9554,
+              22.6364,
+              25.9307
+            ],
+            "spans": [
+              {
+                "offset": 685,
+                "length": 6
+              }
+            ]
+          },
+          {
+            "content": "2025",
+            "polygon": [
+              24.8106,
+              25.273,
+              26.1612,
+              25.2806,
+              26.1585,
+              25.9276,
+              24.8069,
+              25.92
+            ],
+            "spans": [
+              {
+                "offset": 692,
+                "length": 4
+              }
+            ]
+          },
+          {
+            "content": "VIEW PAYMENTS",
+            "polygon": [
+              28.4981,
+              25.3071,
+              32.5811,
+              25.3282,
+              32.5778,
+              25.9808,
+              28.4958,
+              25.9597
+            ],
+            "spans": [
+              {
+                "offset": 697,
+                "length": 13
+              }
+            ]
+          },
+          {
+            "content": "O",
+            "polygon": [
+              0.9468,
+              27.038,
+              1.3106,
+              27.051,
+              1.2947,
+              27.4974,
+              0.9309,
+              27.4845
+            ],
+            "spans": [
+              {
+                "offset": 711,
+                "length": 1
+              }
+            ]
+          },
+          {
+            "content": "Heavy rain",
+            "polygon": [
+              1.5087,
+              27.0707,
+              3.724,
+              27.1281,
+              3.7103,
+              27.658,
+              1.495,
+              27.6006
+            ],
+            "spans": [
+              {
+                "offset": 713,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "Today",
+            "polygon": [
+              1.5578,
+              27.6555,
+              2.8308,
+              27.7142,
+              2.8059,
+              28.2541,
+              1.5335,
+              28.1954
+            ],
+            "spans": [
+              {
+                "offset": 724,
+                "length": 5
+              }
+            ]
+          },
+          {
+            "content": "Search",
+            "polygon": [
+              17.2355,
+              27.5351,
+              18.928,
+              27.5398,
+              18.9263,
+              28.1641,
+              17.2348,
+              28.1594
+            ],
+            "spans": [
+              {
+                "offset": 730,
+                "length": 6
+              }
+            ]
+          },
+          {
+            "content": "1:05 AM",
+            "polygon": [
+              44.4769,
+              27.1741,
+              46.2333,
+              27.1653,
+              46.236,
+              27.6925,
+              44.4795,
+              27.7013
+            ],
+            "spans": [
+              {
+                "offset": 737,
+                "length": 7
+              }
+            ]
+          },
+          {
+            "content": "11/9/2025",
+            "polygon": [
+              44.0913,
+              27.752,
+              46.2166,
+              27.7442,
+              46.2187,
+              28.3009,
+              44.0933,
+              28.3087
+            ],
+            "spans": [
+              {
+                "offset": 745,
+                "length": 9
+              }
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 0,
+            "length": 778
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "rowCount": 5,
+        "columnCount": 4,
+        "cells": [
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "content": "Pag-IBIG MID No.",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  9.5026,
+                  7.887,
+                  16.1482,
+                  7.887,
+                  16.1482,
+                  9.7807,
+                  9.5026,
+                  9.7807
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 333,
+                "length": 16
+              }
+            ],
+            "elements": [
+              "/paragraphs/14"
+            ]
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "content": "121299711201",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16.1482,
+                  7.887,
+                  27.3603,
+                  7.9241,
+                  27.3603,
+                  9.8179,
+                  16.1482,
+                  9.7807
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 350,
+                "length": 12
+              }
+            ],
+            "elements": [
+              "/paragraphs/15"
+            ]
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 2,
+            "content": "Employer",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  27.3603,
+                  7.9241,
+                  34.5999,
+                  7.9241,
+                  34.5999,
+                  9.855,
+                  27.3603,
+                  9.8179
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 363,
+                "length": 8
+              }
+            ],
+            "elements": [
+              "/paragraphs/16"
+            ]
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 3,
+            "content": "IBEX GLOBAL SOLUTIONS PHILIPPINES INC",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  34.5999,
+                  7.9241,
+                  45.6635,
+                  7.9612,
+                  45.7006,
+                  9.855,
+                  34.5999,
+                  9.855
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 372,
+                "length": 37
+              }
+            ],
+            "elements": [
+              "/paragraphs/17"
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "content": "Application No.",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  9.5026,
+                  9.7807,
+                  16.1482,
+                  9.7807,
+                  16.1482,
+                  11.8602,
+                  9.4654,
+                  11.8602
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 410,
+                "length": 15
+              }
+            ],
+            "elements": [
+              "/paragraphs/18"
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "content": "251740000991451",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16.1482,
+                  9.7807,
+                  27.3603,
+                  9.8179,
+                  27.3603,
+                  11.8973,
+                  16.1482,
+                  11.8602
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 426,
+                "length": 15
+              }
+            ],
+            "elements": [
+              "/paragraphs/19"
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 2,
+            "content": "Date Granted",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  27.3603,
+                  9.8179,
+                  34.5999,
+                  9.855,
+                  34.5999,
+                  11.9344,
+                  27.3603,
+                  11.8973
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 442,
+                "length": 12
+              }
+            ],
+            "elements": [
+              "/paragraphs/20"
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 3,
+            "content": "06/25/2025",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  34.5999,
+                  9.855,
+                  45.7006,
+                  9.855,
+                  45.7006,
+                  11.9344,
+                  34.5999,
+                  11.9344
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 455,
+                "length": 10
+              }
+            ],
+            "elements": [
+              "/paragraphs/21"
+            ]
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "content": "Loan Granted",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  9.4654,
+                  11.8602,
+                  16.1482,
+                  11.8602,
+                  16.1482,
+                  14.3109,
+                  9.4654,
+                  14.3109
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 466,
+                "length": 12
+              }
+            ],
+            "elements": [
+              "/paragraphs/22"
+            ]
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 1,
+            "content": "PHP 9.885.91",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16.1482,
+                  11.8602,
+                  27.3603,
+                  11.8973,
+                  27.3603,
+                  14.3109,
+                  16.1482,
+                  14.3109
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 479,
+                "length": 12
+              }
+            ],
+            "elements": [
+              "/paragraphs/23"
+            ]
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 2,
+            "content": "Amortization Period",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  27.3603,
+                  11.8973,
+                  34.5999,
+                  11.9344,
+                  34.5999,
+                  14.3481,
+                  27.3603,
+                  14.3109
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 492,
+                "length": 19
+              }
+            ],
+            "elements": [
+              "/paragraphs/24"
+            ]
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 3,
+            "content": "09/15/2025 - 08/15/2027",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  34.5999,
+                  11.9344,
+                  45.7006,
+                  11.9344,
+                  45.7378,
+                  14.3481,
+                  34.5999,
+                  14.3481
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 512,
+                "length": 23
+              }
+            ],
+            "elements": [
+              "/paragraphs/25"
+            ]
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "content": "Outstanding Balance",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  9.4654,
+                  14.3109,
+                  16.1482,
+                  14.3109,
+                  16.1482,
+                  17.2816,
+                  9.4283,
+                  17.2816
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 536,
+                "length": 19
+              }
+            ],
+            "elements": [
+              "/paragraphs/26"
+            ]
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 1,
+            "content": "PHP 9,771.41",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16.1482,
+                  14.3109,
+                  27.3603,
+                  14.3109,
+                  27.3603,
+                  17.2816,
+                  16.1482,
+                  17.2816
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 556,
+                "length": 12
+              }
+            ],
+            "elements": [
+              "/paragraphs/27"
+            ]
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 2,
+            "content": "Amortization",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  27.3603,
+                  14.3109,
+                  34.5999,
+                  14.3481,
+                  34.5999,
+                  17.3187,
+                  27.3603,
+                  17.2816
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 569,
+                "length": 12
+              }
+            ],
+            "elements": [
+              "/paragraphs/28"
+            ]
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 3,
+            "content": "PHP 503.17",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  34.5999,
+                  14.3481,
+                  45.7378,
+                  14.3481,
+                  45.7378,
+                  17.3187,
+                  34.5999,
+                  17.3187
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 582,
+                "length": 10
+              }
+            ],
+            "elements": [
+              "/paragraphs/29"
+            ]
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 0,
+            "content": "Payments",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  9.4283,
+                  17.2816,
+                  16.1482,
+                  17.2816,
+                  16.1482,
+                  18.9154,
+                  9.4283,
+                  18.9154
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 593,
+                "length": 8
+              }
+            ],
+            "elements": [
+              "/paragraphs/30"
+            ]
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 1,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16.1482,
+                  17.2816,
+                  27.3603,
+                  17.2816,
+                  27.3603,
+                  18.9525,
+                  16.1482,
+                  18.9154
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  27.3603,
+                  17.2816,
+                  34.5999,
+                  17.3187,
+                  34.637,
+                  18.9525,
+                  27.3603,
+                  18.9525
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 3,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  34.5999,
+                  17.3187,
+                  45.7378,
+                  17.3187,
+                  45.7378,
+                  18.9525,
+                  34.637,
+                  18.9525
+                ]
+              }
+            ],
+            "spans": []
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.7352,
+              8.1736,
+              45.9245,
+              8.1642,
+              45.9282,
+              19.0429,
+              9.7414,
+              19.053
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 333,
+            "length": 268
+          }
+        ]
+      },
+      {
+        "rowCount": 2,
+        "columnCount": 3,
+        "cells": [
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "content": "Transaction Date",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  9.9581,
+                  19.9914,
+                  24.3521,
+                  19.9914,
+                  24.3521,
+                  21.7595,
+                  9.9581,
+                  21.7964
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 602,
+                "length": 16
+              }
+            ],
+            "elements": [
+              "/paragraphs/31"
+            ]
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "content": "Pag-IBIG Fund Receipt No.",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  24.3521,
+                  19.9914,
+                  35.1016,
+                  19.9914,
+                  35.1384,
+                  21.7595,
+                  24.3521,
+                  21.7595
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 619,
+                "length": 25
+              }
+            ],
+            "elements": [
+              "/paragraphs/32"
+            ]
+          },
+          {
+            "kind": "columnHeader",
+            "rowIndex": 0,
+            "columnIndex": 2,
+            "content": "Amount",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  35.1016,
+                  19.9914,
+                  45.7038,
+                  19.9914,
+                  45.7038,
+                  21.7595,
+                  35.1384,
+                  21.7595
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 645,
+                "length": 6
+              }
+            ],
+            "elements": [
+              "/paragraphs/33"
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "content": "09/12/2025",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  9.9581,
+                  21.7964,
+                  24.3521,
+                  21.7595,
+                  24.3153,
+                  23.4172,
+                  9.9581,
+                  23.454
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 652,
+                "length": 10
+              }
+            ],
+            "elements": [
+              "/paragraphs/34"
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 1,
+            "content": "25255995900041",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  24.3521,
+                  21.7595,
+                  35.1384,
+                  21.7595,
+                  35.1752,
+                  23.454,
+                  24.3153,
+                  23.4172
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 663,
+                "length": 14
+              }
+            ],
+            "elements": [
+              "/paragraphs/35"
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 2,
+            "content": "503.18",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  35.1384,
+                  21.7595,
+                  45.7038,
+                  21.7595,
+                  45.7038,
+                  23.4172,
+                  35.1752,
+                  23.454
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 678,
+                "length": 6
+              }
+            ],
+            "elements": [
+              "/paragraphs/36"
+            ]
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.9279,
+              19.9715,
+              45.8302,
+              19.9852,
+              45.8365,
+              23.5979,
+              9.9243,
+              23.5828
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 602,
+            "length": 82
+          }
+        ]
+      }
+    ],
+    "paragraphs": [
+      {
+        "spans": [
+          {
+            "offset": 0,
+            "length": 86
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              3.8895,
+              0.6699,
+              24.8171,
+              0.6403,
+              24.8182,
+              1.4229,
+              3.8906,
+              1.4525
+            ]
+          }
+        ],
+        "content": "https://www.pagibigfundservices.com/virtualpagibig_profile/Verification/Member/MPLaspx"
+      },
+      {
+        "spans": [
+          {
+            "offset": 87,
+            "length": 17
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              0.8443,
+              2.9467,
+              7.0498,
+              2.9529,
+              7.0489,
+              3.9218,
+              0.8434,
+              3.9156
+            ]
+          }
+        ],
+        "content": "Hi, Stephanie May"
+      },
+      {
+        "spans": [
+          {
+            "offset": 105,
+            "length": 4
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              2.1985,
+              5.7149,
+              3.7368,
+              5.7262,
+              3.7322,
+              6.3513,
+              2.1939,
+              6.34
+            ]
+          }
+        ],
+        "content": "Home"
+      },
+      {
+        "spans": [
+          {
+            "offset": 110,
+            "length": 14
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              0.7051,
+              7.166,
+              4.7647,
+              7.1644,
+              4.765,
+              7.8918,
+              0.7054,
+              7.8934
+            ]
+          }
+        ],
+        "content": "LATEST UPDATES"
+      },
+      {
+        "spans": [
+          {
+            "offset": 125,
+            "length": 13
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              1.1175,
+              8.9185,
+              4.906,
+              8.925,
+              4.905,
+              9.5396,
+              1.1165,
+              9.5331
+            ]
+          }
+        ],
+        "content": "Announcements"
+      },
+      {
+        "spans": [
+          {
+            "offset": 139,
+            "length": 4
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              1.1155,
+              10.8244,
+              2.4923,
+              10.8388,
+              2.4858,
+              11.4519,
+              1.1091,
+              11.4375
+            ]
+          }
+        ],
+        "content": "News"
+      },
+      {
+        "spans": [
+          {
+            "offset": 144,
+            "length": 8
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              0.6613,
+              12.382,
+              3.3831,
+              12.4015,
+              3.3782,
+              13.0762,
+              0.6565,
+              13.0567
+            ]
+          }
+        ],
+        "role": "sectionHeading",
+        "content": "PRODUCTS"
+      },
+      {
+        "spans": [
+          {
+            "offset": 153,
+            "length": 41
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              1.0636,
+              14.0825,
+              5.9071,
+              14.1056,
+              5.8997,
+              15.653,
+              1.0562,
+              15.6299
+            ]
+          }
+        ],
+        "content": "Regular Savings (Mandatory Contributions)"
+      },
+      {
+        "spans": [
+          {
+            "offset": 195,
+            "length": 31
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              1.0664,
+              16.7699,
+              4.5662,
+              16.8027,
+              4.5516,
+              18.3727,
+              1.0517,
+              18.3399
+            ]
+          }
+        ],
+        "content": "MP2 Savings (Voluntary Savings)"
+      },
+      {
+        "spans": [
+          {
+            "offset": 227,
+            "length": 35
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              0.9961,
+              19.505,
+              8.0984,
+              19.286,
+              8.1839,
+              22.0638,
+              1.0816,
+              22.2827
+            ]
+          }
+        ],
+        "content": "Housing Loạn € Multi-Purpose Loan ‹"
+      },
+      {
+        "spans": [
+          {
+            "offset": 263,
+            "length": 15
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              1.0406,
+              23.3112,
+              8.145,
+              23.1596,
+              8.1623,
+              23.9714,
+              1.0579,
+              24.123
+            ]
+          }
+        ],
+        "content": "Calamity Loan ‹"
+      },
+      {
+        "spans": [
+          {
+            "offset": 279,
+            "length": 17
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              1.1088,
+              25.2448,
+              5.0665,
+              25.2553,
+              5.0646,
+              25.961,
+              1.1069,
+              25.9504
+            ]
+          }
+        ],
+        "content": "Loyalty Card Plus"
+      },
+      {
+        "spans": [
+          {
+            "offset": 297,
+            "length": 16
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              14.67,
+              2.7936,
+              23.3199,
+              2.8997,
+              23.3058,
+              4.053,
+              14.6559,
+              3.947
+            ]
+          }
+        ],
+        "content": "VIRTUAL Pag-IBIG"
+      },
+      {
+        "spans": [
+          {
+            "offset": 314,
+            "length": 18
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              23.6505,
+              5.5439,
+              32.2609,
+              5.5209,
+              32.2637,
+              6.5601,
+              23.6533,
+              6.5831
+            ]
+          }
+        ],
+        "role": "sectionHeading",
+        "content": "MULTI-PURPOSE LOAN"
+      },
+      {
+        "spans": [
+          {
+            "offset": 333,
+            "length": 16
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.5026,
+              7.887,
+              16.1482,
+              7.887,
+              16.1482,
+              9.7807,
+              9.5026,
+              9.7807
+            ]
+          }
+        ],
+        "content": "Pag-IBIG MID No."
+      },
+      {
+        "spans": [
+          {
+            "offset": 350,
+            "length": 12
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              16.1482,
+              7.887,
+              27.3603,
+              7.9241,
+              27.3603,
+              9.8179,
+              16.1482,
+              9.7807
+            ]
+          }
+        ],
+        "content": "121299711201"
+      },
+      {
+        "spans": [
+          {
+            "offset": 363,
+            "length": 8
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              27.3603,
+              7.9241,
+              34.5999,
+              7.9241,
+              34.5999,
+              9.855,
+              27.3603,
+              9.8179
+            ]
+          }
+        ],
+        "content": "Employer"
+      },
+      {
+        "spans": [
+          {
+            "offset": 372,
+            "length": 37
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              34.5999,
+              7.9241,
+              45.6635,
+              7.9612,
+              45.7006,
+              9.855,
+              34.5999,
+              9.855
+            ]
+          }
+        ],
+        "content": "IBEX GLOBAL SOLUTIONS PHILIPPINES INC"
+      },
+      {
+        "spans": [
+          {
+            "offset": 410,
+            "length": 15
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.5026,
+              9.7807,
+              16.1482,
+              9.7807,
+              16.1482,
+              11.8602,
+              9.4654,
+              11.8602
+            ]
+          }
+        ],
+        "content": "Application No."
+      },
+      {
+        "spans": [
+          {
+            "offset": 426,
+            "length": 15
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              16.1482,
+              9.7807,
+              27.3603,
+              9.8179,
+              27.3603,
+              11.8973,
+              16.1482,
+              11.8602
+            ]
+          }
+        ],
+        "content": "251740000991451"
+      },
+      {
+        "spans": [
+          {
+            "offset": 442,
+            "length": 12
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              27.3603,
+              9.8179,
+              34.5999,
+              9.855,
+              34.5999,
+              11.9344,
+              27.3603,
+              11.8973
+            ]
+          }
+        ],
+        "content": "Date Granted"
+      },
+      {
+        "spans": [
+          {
+            "offset": 455,
+            "length": 10
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              34.5999,
+              9.855,
+              45.7006,
+              9.855,
+              45.7006,
+              11.9344,
+              34.5999,
+              11.9344
+            ]
+          }
+        ],
+        "content": "06/25/2025"
+      },
+      {
+        "spans": [
+          {
+            "offset": 466,
+            "length": 12
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.4654,
+              11.8602,
+              16.1482,
+              11.8602,
+              16.1482,
+              14.3109,
+              9.4654,
+              14.3109
+            ]
+          }
+        ],
+        "content": "Loan Granted"
+      },
+      {
+        "spans": [
+          {
+            "offset": 479,
+            "length": 12
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              16.1482,
+              11.8602,
+              27.3603,
+              11.8973,
+              27.3603,
+              14.3109,
+              16.1482,
+              14.3109
+            ]
+          }
+        ],
+        "content": "PHP 9.885.91"
+      },
+      {
+        "spans": [
+          {
+            "offset": 492,
+            "length": 19
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              27.3603,
+              11.8973,
+              34.5999,
+              11.9344,
+              34.5999,
+              14.3481,
+              27.3603,
+              14.3109
+            ]
+          }
+        ],
+        "content": "Amortization Period"
+      },
+      {
+        "spans": [
+          {
+            "offset": 512,
+            "length": 23
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              34.5999,
+              11.9344,
+              45.7006,
+              11.9344,
+              45.7378,
+              14.3481,
+              34.5999,
+              14.3481
+            ]
+          }
+        ],
+        "content": "09/15/2025 - 08/15/2027"
+      },
+      {
+        "spans": [
+          {
+            "offset": 536,
+            "length": 19
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.4654,
+              14.3109,
+              16.1482,
+              14.3109,
+              16.1482,
+              17.2816,
+              9.4283,
+              17.2816
+            ]
+          }
+        ],
+        "content": "Outstanding Balance"
+      },
+      {
+        "spans": [
+          {
+            "offset": 556,
+            "length": 12
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              16.1482,
+              14.3109,
+              27.3603,
+              14.3109,
+              27.3603,
+              17.2816,
+              16.1482,
+              17.2816
+            ]
+          }
+        ],
+        "content": "PHP 9,771.41"
+      },
+      {
+        "spans": [
+          {
+            "offset": 569,
+            "length": 12
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              27.3603,
+              14.3109,
+              34.5999,
+              14.3481,
+              34.5999,
+              17.3187,
+              27.3603,
+              17.2816
+            ]
+          }
+        ],
+        "content": "Amortization"
+      },
+      {
+        "spans": [
+          {
+            "offset": 582,
+            "length": 10
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              34.5999,
+              14.3481,
+              45.7378,
+              14.3481,
+              45.7378,
+              17.3187,
+              34.5999,
+              17.3187
+            ]
+          }
+        ],
+        "content": "PHP 503.17"
+      },
+      {
+        "spans": [
+          {
+            "offset": 593,
+            "length": 8
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.4283,
+              17.2816,
+              16.1482,
+              17.2816,
+              16.1482,
+              18.9154,
+              9.4283,
+              18.9154
+            ]
+          }
+        ],
+        "content": "Payments"
+      },
+      {
+        "spans": [
+          {
+            "offset": 602,
+            "length": 16
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.9581,
+              19.9914,
+              24.3521,
+              19.9914,
+              24.3521,
+              21.7595,
+              9.9581,
+              21.7964
+            ]
+          }
+        ],
+        "content": "Transaction Date"
+      },
+      {
+        "spans": [
+          {
+            "offset": 619,
+            "length": 25
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              24.3521,
+              19.9914,
+              35.1016,
+              19.9914,
+              35.1384,
+              21.7595,
+              24.3521,
+              21.7595
+            ]
+          }
+        ],
+        "content": "Pag-IBIG Fund Receipt No."
+      },
+      {
+        "spans": [
+          {
+            "offset": 645,
+            "length": 6
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              35.1016,
+              19.9914,
+              45.7038,
+              19.9914,
+              45.7038,
+              21.7595,
+              35.1384,
+              21.7595
+            ]
+          }
+        ],
+        "content": "Amount"
+      },
+      {
+        "spans": [
+          {
+            "offset": 652,
+            "length": 10
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9.9581,
+              21.7964,
+              24.3521,
+              21.7595,
+              24.3153,
+              23.4172,
+              9.9581,
+              23.454
+            ]
+          }
+        ],
+        "content": "09/12/2025"
+      },
+      {
+        "spans": [
+          {
+            "offset": 663,
+            "length": 14
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              24.3521,
+              21.7595,
+              35.1384,
+              21.7595,
+              35.1752,
+              23.454,
+              24.3153,
+              23.4172
+            ]
+          }
+        ],
+        "content": "25255995900041"
+      },
+      {
+        "spans": [
+          {
+            "offset": 678,
+            "length": 6
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              35.1384,
+              21.7595,
+              45.7038,
+              21.7595,
+              45.7038,
+              23.4172,
+              35.1752,
+              23.454
+            ]
+          }
+        ],
+        "content": "503.18"
+      },
+      {
+        "spans": [
+          {
+            "offset": 685,
+            "length": 6
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              22.6421,
+              25.3064,
+              24.0258,
+              25.3311,
+              24.0146,
+              25.9554,
+              22.6364,
+              25.9307
+            ]
+          }
+        ],
+        "content": "Year :"
+      },
+      {
+        "spans": [
+          {
+            "offset": 692,
+            "length": 4
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              24.8106,
+              25.273,
+              26.1612,
+              25.2806,
+              26.1585,
+              25.9276,
+              24.8069,
+              25.92
+            ]
+          }
+        ],
+        "content": "2025"
+      },
+      {
+        "spans": [
+          {
+            "offset": 697,
+            "length": 13
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              28.4981,
+              25.3071,
+              32.5811,
+              25.3282,
+              32.5778,
+              25.9808,
+              28.4947,
+              25.9597
+            ]
+          }
+        ],
+        "content": "VIEW PAYMENTS"
+      },
+      {
+        "spans": [
+          {
+            "offset": 711,
+            "length": 18
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              0.9453,
+              27.0379,
+              3.7274,
+              27.1282,
+              3.6901,
+              28.2827,
+              0.9079,
+              28.1925
+            ]
+          }
+        ],
+        "content": "O Heavy rain Today"
+      },
+      {
+        "spans": [
+          {
+            "offset": 730,
+            "length": 6
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              17.2355,
+              27.5351,
+              18.928,
+              27.5398,
+              18.9263,
+              28.1641,
+              17.2337,
+              28.1594
+            ]
+          }
+        ],
+        "content": "Search"
+      },
+      {
+        "spans": [
+          {
+            "offset": 737,
+            "length": 17
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              44.0891,
+              27.1732,
+              46.2341,
+              27.1653,
+              46.2382,
+              28.3009,
+              44.0933,
+              28.3087
+            ]
+          }
+        ],
+        "role": "pageFooter",
+        "content": "1:05 AM 11/9/2025"
+      }
+    ],
+    "styles": [],
+    "contentFormat": "text",
+    "sections": [
+      {
+        "spans": [
+          {
+            "offset": 0,
+            "length": 736
+          }
+        ],
+        "elements": [
+          "/sections/1",
+          "/sections/2",
+          "/sections/3"
+        ]
+      },
+      {
+        "spans": [
+          {
+            "offset": 0,
+            "length": 143
+          }
+        ],
+        "elements": [
+          "/paragraphs/0",
+          "/figures/0",
+          "/paragraphs/1",
+          "/paragraphs/2",
+          "/paragraphs/3",
+          "/paragraphs/4",
+          "/paragraphs/5"
+        ]
+      },
+      {
+        "spans": [
+          {
+            "offset": 144,
+            "length": 169
+          }
+        ],
+        "elements": [
+          "/paragraphs/6",
+          "/paragraphs/7",
+          "/paragraphs/8",
+          "/paragraphs/9",
+          "/paragraphs/10",
+          "/paragraphs/11",
+          "/figures/1"
+        ]
+      },
+      {
+        "spans": [
+          {
+            "offset": 314,
+            "length": 422
+          }
+        ],
+        "elements": [
+          "/paragraphs/13",
+          "/tables/0",
+          "/tables/1",
+          "/paragraphs/37",
+          "/paragraphs/38",
+          "/paragraphs/39",
+          "/figures/2",
+          "/figures/3",
+          "/paragraphs/41",
+          "/figures/4"
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "id": "1.1",
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              37.5409,
+              0.6903,
+              43.7375,
+              0.6907,
+              43.7385,
+              1.6107,
+              37.5419,
+              1.6102
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 86,
+            "length": 0
+          }
+        ]
+      },
+      {
+        "id": "1.2",
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              12.7947,
+              2.2504,
+              24.1812,
+              2.2498,
+              24.1763,
+              4.4049,
+              12.7893,
+              4.4052
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 297,
+            "length": 16
+          }
+        ],
+        "elements": [
+          "/paragraphs/12"
+        ]
+      },
+      {
+        "id": "1.3",
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              0.4446,
+              26.8091,
+              3.8024,
+              26.8088,
+              3.8015,
+              28.3997,
+              0.4435,
+              28.4
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 711,
+            "length": 18
+          }
+        ],
+        "elements": [
+          "/paragraphs/40"
+        ]
+      },
+      {
+        "id": "1.4",
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              14.5255,
+              27.289,
+              15.4775,
+              27.289,
+              15.4775,
+              28.453,
+              14.5254,
+              28.453
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 729,
+            "length": 0
+          }
+        ]
+      },
+      {
+        "id": "1.5",
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              22.3277,
+              27.2616,
+              32.1171,
+              27.2622,
+              32.1173,
+              28.4919,
+              22.3273,
+              28.4912
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 736,
+            "length": 0
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,4088 @@
+{
+  "status": "succeeded",
+  "createdDateTime": "2026-07-01T22:28:20Z",
+  "lastUpdatedDateTime": "2026-07-01T22:28:21Z",
+  "analyzeResult": {
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-layout",
+    "stringIndexType": "textElements",
+    "content": "× :selected:\nACTIVE\nSL202505150961830\nSOA\nCredited Payments\nCertifying Employer ID\n03-9015140-7\nCertifying Employer Name\nACCENTURE INC\nLoan Amount\n₱40,000.00\nBank Name\nBANK OF THE PHILIPPINE ISLANDS\nAccount Number\n1599657874\nNet Amount\n₱39,095.89\nLoan Month\n2\nMonthly Amortization\n₱1,845.80\nFirst Monthly Amortization\nJul 1, 2025\nPAST DUE\nV\nCURRENT DUE\nV\nTotal Amount Due\n3,705.90\nAmount Not Yet Due\nPrincipal\n20,994.99\nInterest\n202.46\nTotal Amount of Obligation\n24,903.35\nClose",
+    "pages": [
+      {
+        "pageNumber": 1,
+        "angle": -0.03449999913573265,
+        "width": 908,
+        "height": 774,
+        "unit": "pixel",
+        "words": [
+          {
+            "content": "×",
+            "polygon": [
+              883,
+              13,
+              896,
+              14,
+              896,
+              24,
+              883,
+              25
+            ],
+            "confidence": 0.392,
+            "span": {
+              "offset": 0,
+              "length": 1
+            }
+          },
+          {
+            "content": "ACTIVE",
+            "polygon": [
+              178,
+              18,
+              229,
+              18,
+              229,
+              31,
+              178,
+              31
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 13,
+              "length": 6
+            }
+          },
+          {
+            "content": "SL202505150961830",
+            "polygon": [
+              9,
+              16,
+              169,
+              16,
+              169,
+              31,
+              9,
+              31
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 20,
+              "length": 17
+            }
+          },
+          {
+            "content": "SOA",
+            "polygon": [
+              29,
+              72,
+              59,
+              72,
+              59,
+              85,
+              29,
+              85
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 38,
+              "length": 3
+            }
+          },
+          {
+            "content": "Credited",
+            "polygon": [
+              95,
+              71,
+              151,
+              72,
+              151,
+              86,
+              95,
+              86
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 42,
+              "length": 8
+            }
+          },
+          {
+            "content": "Payments",
+            "polygon": [
+              155,
+              72,
+              221,
+              72,
+              221,
+              87,
+              155,
+              86
+            ],
+            "confidence": 0.994,
+            "span": {
+              "offset": 51,
+              "length": 8
+            }
+          },
+          {
+            "content": "Certifying",
+            "polygon": [
+              25,
+              104,
+              89,
+              105,
+              89,
+              120,
+              26,
+              120
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 60,
+              "length": 10
+            }
+          },
+          {
+            "content": "Employer",
+            "polygon": [
+              93,
+              105,
+              154,
+              105,
+              154,
+              120,
+              93,
+              120
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 71,
+              "length": 8
+            }
+          },
+          {
+            "content": "ID",
+            "polygon": [
+              158,
+              105,
+              174,
+              105,
+              174,
+              120,
+              158,
+              120
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 80,
+              "length": 2
+            }
+          },
+          {
+            "content": "03-9015140-7",
+            "polygon": [
+              458,
+              105,
+              544,
+              104,
+              544,
+              118,
+              458,
+              118
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 83,
+              "length": 12
+            }
+          },
+          {
+            "content": "Certifying",
+            "polygon": [
+              26,
+              138,
+              89,
+              138,
+              89,
+              153,
+              26,
+              153
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 96,
+              "length": 10
+            }
+          },
+          {
+            "content": "Employer",
+            "polygon": [
+              93,
+              138,
+              154,
+              138,
+              154,
+              153,
+              93,
+              153
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 107,
+              "length": 8
+            }
+          },
+          {
+            "content": "Name",
+            "polygon": [
+              158,
+              138,
+              199,
+              138,
+              199,
+              152,
+              158,
+              153
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 116,
+              "length": 4
+            }
+          },
+          {
+            "content": "ACCENTURE",
+            "polygon": [
+              458,
+              138,
+              541,
+              138,
+              541,
+              151,
+              458,
+              151
+            ],
+            "confidence": 0.994,
+            "span": {
+              "offset": 121,
+              "length": 9
+            }
+          },
+          {
+            "content": "INC",
+            "polygon": [
+              544,
+              138,
+              569,
+              137,
+              569,
+              151,
+              544,
+              151
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 131,
+              "length": 3
+            }
+          },
+          {
+            "content": "Loan",
+            "polygon": [
+              26,
+              171,
+              58,
+              171,
+              58,
+              183,
+              26,
+              183
+            ],
+            "confidence": 0.991,
+            "span": {
+              "offset": 135,
+              "length": 4
+            }
+          },
+          {
+            "content": "Amount",
+            "polygon": [
+              61,
+              171,
+              116,
+              170,
+              116,
+              183,
+              61,
+              183
+            ],
+            "confidence": 0.998,
+            "span": {
+              "offset": 140,
+              "length": 6
+            }
+          },
+          {
+            "content": "₱40,000.00",
+            "polygon": [
+              458,
+              170,
+              536,
+              170,
+              536,
+              183,
+              458,
+              183
+            ],
+            "confidence": 0.989,
+            "span": {
+              "offset": 147,
+              "length": 10
+            }
+          },
+          {
+            "content": "Bank",
+            "polygon": [
+              26,
+              203,
+              60,
+              203,
+              60,
+              216,
+              26,
+              216
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 158,
+              "length": 4
+            }
+          },
+          {
+            "content": "Name",
+            "polygon": [
+              64,
+              203,
+              105,
+              203,
+              105,
+              216,
+              64,
+              216
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 163,
+              "length": 4
+            }
+          },
+          {
+            "content": "BANK",
+            "polygon": [
+              458,
+              202,
+              498,
+              202,
+              498,
+              216,
+              458,
+              216
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 168,
+              "length": 4
+            }
+          },
+          {
+            "content": "OF",
+            "polygon": [
+              501,
+              202,
+              517,
+              202,
+              518,
+              216,
+              501,
+              216
+            ],
+            "confidence": 0.996,
+            "span": {
+              "offset": 173,
+              "length": 2
+            }
+          },
+          {
+            "content": "THE",
+            "polygon": [
+              523,
+              202,
+              549,
+              202,
+              549,
+              216,
+              523,
+              216
+            ],
+            "confidence": 0.998,
+            "span": {
+              "offset": 176,
+              "length": 3
+            }
+          },
+          {
+            "content": "PHILIPPINE",
+            "polygon": [
+              553,
+              202,
+              628,
+              202,
+              628,
+              216,
+              553,
+              216
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 180,
+              "length": 10
+            }
+          },
+          {
+            "content": "ISLANDS",
+            "polygon": [
+              632,
+              202,
+              691,
+              202,
+              691,
+              216,
+              632,
+              216
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 191,
+              "length": 7
+            }
+          },
+          {
+            "content": "Account",
+            "polygon": [
+              25,
+              236,
+              80,
+              236,
+              80,
+              249,
+              25,
+              249
+            ],
+            "confidence": 0.997,
+            "span": {
+              "offset": 199,
+              "length": 7
+            }
+          },
+          {
+            "content": "Number",
+            "polygon": [
+              84,
+              236,
+              140,
+              236,
+              140,
+              249,
+              84,
+              249
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 207,
+              "length": 6
+            }
+          },
+          {
+            "content": "1599657874",
+            "polygon": [
+              458,
+              236,
+              534,
+              236,
+              534,
+              249,
+              458,
+              249
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 214,
+              "length": 10
+            }
+          },
+          {
+            "content": "Net",
+            "polygon": [
+              26,
+              269,
+              50,
+              269,
+              50,
+              282,
+              26,
+              282
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 225,
+              "length": 3
+            }
+          },
+          {
+            "content": "Amount",
+            "polygon": [
+              53,
+              269,
+              108,
+              269,
+              108,
+              282,
+              53,
+              282
+            ],
+            "confidence": 0.997,
+            "span": {
+              "offset": 229,
+              "length": 6
+            }
+          },
+          {
+            "content": "₱39,095.89",
+            "polygon": [
+              458,
+              269,
+              531,
+              269,
+              531,
+              282,
+              458,
+              282
+            ],
+            "confidence": 0.977,
+            "span": {
+              "offset": 236,
+              "length": 10
+            }
+          },
+          {
+            "content": "Loan",
+            "polygon": [
+              26,
+              302,
+              58,
+              302,
+              58,
+              315,
+              26,
+              315
+            ],
+            "confidence": 0.991,
+            "span": {
+              "offset": 247,
+              "length": 4
+            }
+          },
+          {
+            "content": "Month",
+            "polygon": [
+              62,
+              302,
+              106,
+              302,
+              106,
+              315,
+              62,
+              315
+            ],
+            "confidence": 0.998,
+            "span": {
+              "offset": 252,
+              "length": 5
+            }
+          },
+          {
+            "content": "2",
+            "polygon": [
+              458,
+              302,
+              469,
+              302,
+              469,
+              314,
+              458,
+              314
+            ],
+            "confidence": 0.996,
+            "span": {
+              "offset": 258,
+              "length": 1
+            }
+          },
+          {
+            "content": "Monthly",
+            "polygon": [
+              26,
+              335,
+              78,
+              335,
+              79,
+              349,
+              26,
+              349
+            ],
+            "confidence": 0.998,
+            "span": {
+              "offset": 260,
+              "length": 7
+            }
+          },
+          {
+            "content": "Amortization",
+            "polygon": [
+              82,
+              335,
+              168,
+              335,
+              168,
+              349,
+              82,
+              349
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 268,
+              "length": 12
+            }
+          },
+          {
+            "content": "₱1,845.80",
+            "polygon": [
+              458,
+              334,
+              522,
+              334,
+              522,
+              349,
+              458,
+              349
+            ],
+            "confidence": 0.979,
+            "span": {
+              "offset": 281,
+              "length": 9
+            }
+          },
+          {
+            "content": "First",
+            "polygon": [
+              26,
+              368,
+              55,
+              368,
+              55,
+              382,
+              26,
+              382
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 291,
+              "length": 5
+            }
+          },
+          {
+            "content": "Monthly",
+            "polygon": [
+              59,
+              368,
+              112,
+              368,
+              112,
+              382,
+              59,
+              382
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 297,
+              "length": 7
+            }
+          },
+          {
+            "content": "Amortization",
+            "polygon": [
+              114,
+              368,
+              200,
+              368,
+              200,
+              382,
+              114,
+              382
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 305,
+              "length": 12
+            }
+          },
+          {
+            "content": "Jul",
+            "polygon": [
+              457,
+              367,
+              477,
+              367,
+              477,
+              382,
+              457,
+              382
+            ],
+            "confidence": 0.994,
+            "span": {
+              "offset": 318,
+              "length": 3
+            }
+          },
+          {
+            "content": "1,",
+            "polygon": [
+              480,
+              367,
+              488,
+              367,
+              488,
+              382,
+              480,
+              382
+            ],
+            "confidence": 0.989,
+            "span": {
+              "offset": 322,
+              "length": 2
+            }
+          },
+          {
+            "content": "2025",
+            "polygon": [
+              491,
+              368,
+              524,
+              367,
+              524,
+              382,
+              491,
+              382
+            ],
+            "confidence": 0.99,
+            "span": {
+              "offset": 325,
+              "length": 4
+            }
+          },
+          {
+            "content": "PAST",
+            "polygon": [
+              36,
+              419,
+              71,
+              419,
+              71,
+              432,
+              36,
+              432
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 330,
+              "length": 4
+            }
+          },
+          {
+            "content": "DUE",
+            "polygon": [
+              74,
+              419,
+              104,
+              418,
+              104,
+              432,
+              74,
+              432
+            ],
+            "confidence": 0.998,
+            "span": {
+              "offset": 335,
+              "length": 3
+            }
+          },
+          {
+            "content": "V",
+            "polygon": [
+              854,
+              421,
+              868,
+              421,
+              869,
+              429,
+              854,
+              429
+            ],
+            "confidence": 0.987,
+            "span": {
+              "offset": 339,
+              "length": 1
+            }
+          },
+          {
+            "content": "CURRENT",
+            "polygon": [
+              36,
+              461,
+              102,
+              461,
+              102,
+              475,
+              36,
+              475
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 341,
+              "length": 7
+            }
+          },
+          {
+            "content": "DUE",
+            "polygon": [
+              105,
+              461,
+              135,
+              461,
+              135,
+              475,
+              105,
+              475
+            ],
+            "confidence": 0.998,
+            "span": {
+              "offset": 349,
+              "length": 3
+            }
+          },
+          {
+            "content": "V",
+            "polygon": [
+              854,
+              464,
+              869,
+              464,
+              869,
+              472,
+              854,
+              473
+            ],
+            "confidence": 0.48,
+            "span": {
+              "offset": 353,
+              "length": 1
+            }
+          },
+          {
+            "content": "Total",
+            "polygon": [
+              25,
+              500,
+              57,
+              500,
+              57,
+              513,
+              25,
+              513
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 355,
+              "length": 5
+            }
+          },
+          {
+            "content": "Amount",
+            "polygon": [
+              60,
+              500,
+              114,
+              500,
+              114,
+              513,
+              60,
+              513
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 361,
+              "length": 6
+            }
+          },
+          {
+            "content": "Due",
+            "polygon": [
+              118,
+              500,
+              146,
+              500,
+              146,
+              513,
+              118,
+              513
+            ],
+            "confidence": 0.999,
+            "span": {
+              "offset": 368,
+              "length": 3
+            }
+          },
+          {
+            "content": "3,705.90",
+            "polygon": [
+              826,
+              500,
+              880,
+              499,
+              880,
+              513,
+              826,
+              514
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 372,
+              "length": 8
+            }
+          },
+          {
+            "content": "Amount",
+            "polygon": [
+              36,
+              550,
+              90,
+              550,
+              90,
+              563,
+              36,
+              563
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 381,
+              "length": 6
+            }
+          },
+          {
+            "content": "Not",
+            "polygon": [
+              92,
+              550,
+              118,
+              550,
+              118,
+              563,
+              92,
+              563
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 388,
+              "length": 3
+            }
+          },
+          {
+            "content": "Yet",
+            "polygon": [
+              120,
+              550,
+              141,
+              550,
+              141,
+              563,
+              120,
+              563
+            ],
+            "confidence": 0.996,
+            "span": {
+              "offset": 392,
+              "length": 3
+            }
+          },
+          {
+            "content": "Due",
+            "polygon": [
+              145,
+              550,
+              173,
+              550,
+              173,
+              563,
+              145,
+              563
+            ],
+            "confidence": 0.998,
+            "span": {
+              "offset": 396,
+              "length": 3
+            }
+          },
+          {
+            "content": "Principal",
+            "polygon": [
+              27,
+              588,
+              85,
+              588,
+              85,
+              602,
+              27,
+              602
+            ],
+            "confidence": 0.995,
+            "span": {
+              "offset": 400,
+              "length": 9
+            }
+          },
+          {
+            "content": "20,994.99",
+            "polygon": [
+              816,
+              588,
+              879,
+              588,
+              879,
+              601,
+              816,
+              601
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 410,
+              "length": 9
+            }
+          },
+          {
+            "content": "Interest",
+            "polygon": [
+              26,
+              621,
+              79,
+              621,
+              79,
+              634,
+              27,
+              634
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 420,
+              "length": 8
+            }
+          },
+          {
+            "content": "202.46",
+            "polygon": [
+              835,
+              621,
+              880,
+              621,
+              880,
+              633,
+              835,
+              633
+            ],
+            "confidence": 0.997,
+            "span": {
+              "offset": 429,
+              "length": 6
+            }
+          },
+          {
+            "content": "Total",
+            "polygon": [
+              25,
+              666,
+              57,
+              666,
+              57,
+              681,
+              25,
+              681
+            ],
+            "confidence": 0.996,
+            "span": {
+              "offset": 436,
+              "length": 5
+            }
+          },
+          {
+            "content": "Amount",
+            "polygon": [
+              60,
+              666,
+              114,
+              666,
+              114,
+              681,
+              60,
+              681
+            ],
+            "confidence": 0.997,
+            "span": {
+              "offset": 442,
+              "length": 6
+            }
+          },
+          {
+            "content": "of",
+            "polygon": [
+              117,
+              666,
+              130,
+              666,
+              130,
+              681,
+              117,
+              681
+            ],
+            "confidence": 0.992,
+            "span": {
+              "offset": 449,
+              "length": 2
+            }
+          },
+          {
+            "content": "Obligation",
+            "polygon": [
+              133,
+              666,
+              202,
+              666,
+              202,
+              682,
+              133,
+              681
+            ],
+            "confidence": 0.993,
+            "span": {
+              "offset": 452,
+              "length": 10
+            }
+          },
+          {
+            "content": "24,903.35",
+            "polygon": [
+              818,
+              667,
+              881,
+              667,
+              881,
+              680,
+              818,
+              681
+            ],
+            "confidence": 0.994,
+            "span": {
+              "offset": 463,
+              "length": 9
+            }
+          },
+          {
+            "content": "Close",
+            "polygon": [
+              849,
+              739,
+              887,
+              739,
+              887,
+              752,
+              849,
+              752
+            ],
+            "confidence": 0.998,
+            "span": {
+              "offset": 473,
+              "length": 5
+            }
+          }
+        ],
+        "selectionMarks": [
+          {
+            "state": "selected",
+            "polygon": [
+              883,
+              13,
+              898,
+              14,
+              898,
+              27,
+              883,
+              26
+            ],
+            "confidence": 0.484,
+            "span": {
+              "offset": 2,
+              "length": 10
+            }
+          }
+        ],
+        "lines": [
+          {
+            "content": "×",
+            "polygon": [
+              883,
+              13,
+              896,
+              13,
+              896,
+              25,
+              883,
+              25
+            ],
+            "spans": [
+              {
+                "offset": 0,
+                "length": 1
+              }
+            ]
+          },
+          {
+            "content": "ACTIVE",
+            "polygon": [
+              178,
+              18,
+              228,
+              18,
+              228,
+              31,
+              178,
+              30
+            ],
+            "spans": [
+              {
+                "offset": 13,
+                "length": 6
+              }
+            ]
+          },
+          {
+            "content": "SL202505150961830",
+            "polygon": [
+              9,
+              16,
+              169,
+              16,
+              169,
+              31,
+              9,
+              31
+            ],
+            "spans": [
+              {
+                "offset": 20,
+                "length": 17
+              }
+            ]
+          },
+          {
+            "content": "SOA",
+            "polygon": [
+              29,
+              72,
+              59,
+              72,
+              59,
+              84,
+              29,
+              85
+            ],
+            "spans": [
+              {
+                "offset": 38,
+                "length": 3
+              }
+            ]
+          },
+          {
+            "content": "Credited Payments",
+            "polygon": [
+              95,
+              71,
+              221,
+              72,
+              221,
+              87,
+              95,
+              86
+            ],
+            "spans": [
+              {
+                "offset": 42,
+                "length": 17
+              }
+            ]
+          },
+          {
+            "content": "Certifying Employer ID",
+            "polygon": [
+              25,
+              104,
+              174,
+              105,
+              173,
+              120,
+              25,
+              120
+            ],
+            "spans": [
+              {
+                "offset": 60,
+                "length": 22
+              }
+            ]
+          },
+          {
+            "content": "03-9015140-7",
+            "polygon": [
+              458,
+              105,
+              543,
+              105,
+              543,
+              118,
+              458,
+              118
+            ],
+            "spans": [
+              {
+                "offset": 83,
+                "length": 12
+              }
+            ]
+          },
+          {
+            "content": "Certifying Employer Name",
+            "polygon": [
+              26,
+              137,
+              198,
+              138,
+              198,
+              153,
+              26,
+              153
+            ],
+            "spans": [
+              {
+                "offset": 96,
+                "length": 24
+              }
+            ]
+          },
+          {
+            "content": "ACCENTURE INC",
+            "polygon": [
+              458,
+              138,
+              569,
+              137,
+              569,
+              151,
+              458,
+              151
+            ],
+            "spans": [
+              {
+                "offset": 121,
+                "length": 13
+              }
+            ]
+          },
+          {
+            "content": "Loan Amount",
+            "polygon": [
+              26,
+              171,
+              116,
+              170,
+              116,
+              183,
+              26,
+              183
+            ],
+            "spans": [
+              {
+                "offset": 135,
+                "length": 11
+              }
+            ]
+          },
+          {
+            "content": "₱40,000.00",
+            "polygon": [
+              458,
+              170,
+              535,
+              170,
+              535,
+              183,
+              458,
+              183
+            ],
+            "spans": [
+              {
+                "offset": 147,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "Bank Name",
+            "polygon": [
+              26,
+              203,
+              104,
+              203,
+              104,
+              216,
+              26,
+              216
+            ],
+            "spans": [
+              {
+                "offset": 158,
+                "length": 9
+              }
+            ]
+          },
+          {
+            "content": "BANK OF THE PHILIPPINE ISLANDS",
+            "polygon": [
+              458,
+              202,
+              690,
+              202,
+              690,
+              216,
+              458,
+              216
+            ],
+            "spans": [
+              {
+                "offset": 168,
+                "length": 30
+              }
+            ]
+          },
+          {
+            "content": "Account Number",
+            "polygon": [
+              25,
+              236,
+              139,
+              236,
+              139,
+              249,
+              25,
+              249
+            ],
+            "spans": [
+              {
+                "offset": 199,
+                "length": 14
+              }
+            ]
+          },
+          {
+            "content": "1599657874",
+            "polygon": [
+              458,
+              236,
+              534,
+              236,
+              534,
+              249,
+              458,
+              249
+            ],
+            "spans": [
+              {
+                "offset": 214,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "Net Amount",
+            "polygon": [
+              26,
+              269,
+              107,
+              269,
+              107,
+              282,
+              26,
+              282
+            ],
+            "spans": [
+              {
+                "offset": 225,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "₱39,095.89",
+            "polygon": [
+              458,
+              269,
+              530,
+              269,
+              530,
+              282,
+              458,
+              282
+            ],
+            "spans": [
+              {
+                "offset": 236,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "Loan Month",
+            "polygon": [
+              26,
+              302,
+              105,
+              302,
+              105,
+              315,
+              26,
+              315
+            ],
+            "spans": [
+              {
+                "offset": 247,
+                "length": 10
+              }
+            ]
+          },
+          {
+            "content": "2",
+            "polygon": [
+              458,
+              302,
+              468,
+              302,
+              468,
+              314,
+              458,
+              314
+            ],
+            "spans": [
+              {
+                "offset": 258,
+                "length": 1
+              }
+            ]
+          },
+          {
+            "content": "Monthly Amortization",
+            "polygon": [
+              26,
+              335,
+              168,
+              335,
+              168,
+              349,
+              26,
+              349
+            ],
+            "spans": [
+              {
+                "offset": 260,
+                "length": 20
+              }
+            ]
+          },
+          {
+            "content": "₱1,845.80",
+            "polygon": [
+              458,
+              334,
+              522,
+              334,
+              522,
+              348,
+              458,
+              348
+            ],
+            "spans": [
+              {
+                "offset": 281,
+                "length": 9
+              }
+            ]
+          },
+          {
+            "content": "First Monthly Amortization",
+            "polygon": [
+              26,
+              368,
+              199,
+              367,
+              199,
+              382,
+              26,
+              382
+            ],
+            "spans": [
+              {
+                "offset": 291,
+                "length": 26
+              }
+            ]
+          },
+          {
+            "content": "Jul 1, 2025",
+            "polygon": [
+              457,
+              367,
+              523,
+              367,
+              523,
+              382,
+              457,
+              382
+            ],
+            "spans": [
+              {
+                "offset": 318,
+                "length": 11
+              }
+            ]
+          },
+          {
+            "content": "PAST DUE",
+            "polygon": [
+              36,
+              418,
+              104,
+              418,
+              104,
+              432,
+              36,
+              432
+            ],
+            "spans": [
+              {
+                "offset": 330,
+                "length": 8
+              }
+            ]
+          },
+          {
+            "content": "V",
+            "polygon": [
+              854,
+              421,
+              868,
+              420,
+              868,
+              429,
+              854,
+              429
+            ],
+            "spans": [
+              {
+                "offset": 339,
+                "length": 1
+              }
+            ]
+          },
+          {
+            "content": "CURRENT DUE",
+            "polygon": [
+              36,
+              461,
+              135,
+              461,
+              135,
+              475,
+              36,
+              475
+            ],
+            "spans": [
+              {
+                "offset": 341,
+                "length": 11
+              }
+            ]
+          },
+          {
+            "content": "V",
+            "polygon": [
+              853,
+              464,
+              868,
+              464,
+              868,
+              472,
+              854,
+              473
+            ],
+            "spans": [
+              {
+                "offset": 353,
+                "length": 1
+              }
+            ]
+          },
+          {
+            "content": "Total Amount Due",
+            "polygon": [
+              25,
+              500,
+              145,
+              500,
+              145,
+              513,
+              25,
+              513
+            ],
+            "spans": [
+              {
+                "offset": 355,
+                "length": 16
+              }
+            ]
+          },
+          {
+            "content": "3,705.90",
+            "polygon": [
+              826,
+              500,
+              880,
+              499,
+              880,
+              513,
+              826,
+              513
+            ],
+            "spans": [
+              {
+                "offset": 372,
+                "length": 8
+              }
+            ]
+          },
+          {
+            "content": "Amount Not Yet Due",
+            "polygon": [
+              36,
+              550,
+              172,
+              550,
+              172,
+              563,
+              36,
+              563
+            ],
+            "spans": [
+              {
+                "offset": 381,
+                "length": 18
+              }
+            ]
+          },
+          {
+            "content": "Principal",
+            "polygon": [
+              27,
+              588,
+              84,
+              588,
+              84,
+              602,
+              27,
+              602
+            ],
+            "spans": [
+              {
+                "offset": 400,
+                "length": 9
+              }
+            ]
+          },
+          {
+            "content": "20,994.99",
+            "polygon": [
+              816,
+              588,
+              879,
+              588,
+              879,
+              601,
+              816,
+              601
+            ],
+            "spans": [
+              {
+                "offset": 410,
+                "length": 9
+              }
+            ]
+          },
+          {
+            "content": "Interest",
+            "polygon": [
+              26,
+              621,
+              78,
+              621,
+              78,
+              633,
+              26,
+              633
+            ],
+            "spans": [
+              {
+                "offset": 420,
+                "length": 8
+              }
+            ]
+          },
+          {
+            "content": "202.46",
+            "polygon": [
+              835,
+              621,
+              879,
+              621,
+              879,
+              633,
+              835,
+              633
+            ],
+            "spans": [
+              {
+                "offset": 429,
+                "length": 6
+              }
+            ]
+          },
+          {
+            "content": "Total Amount of Obligation",
+            "polygon": [
+              25,
+              666,
+              202,
+              666,
+              202,
+              681,
+              25,
+              681
+            ],
+            "spans": [
+              {
+                "offset": 436,
+                "length": 26
+              }
+            ]
+          },
+          {
+            "content": "24,903.35",
+            "polygon": [
+              818,
+              667,
+              880,
+              667,
+              880,
+              680,
+              818,
+              680
+            ],
+            "spans": [
+              {
+                "offset": 463,
+                "length": 9
+              }
+            ]
+          },
+          {
+            "content": "Close",
+            "polygon": [
+              849,
+              739,
+              886,
+              739,
+              886,
+              752,
+              849,
+              752
+            ],
+            "spans": [
+              {
+                "offset": 473,
+                "length": 5
+              }
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 0,
+            "length": 478
+          }
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "rowCount": 18,
+        "columnCount": 4,
+        "cells": [
+          {
+            "rowIndex": 0,
+            "columnIndex": 0,
+            "content": "SOA",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16,
+                  61,
+                  76,
+                  61,
+                  76,
+                  94,
+                  16,
+                  95
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 38,
+                "length": 3
+              }
+            ],
+            "elements": [
+              "/paragraphs/3"
+            ]
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 1,
+            "content": "Credited Payments",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  76,
+                  61,
+                  336,
+                  61,
+                  336,
+                  94,
+                  76,
+                  94
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 42,
+                "length": 17
+              }
+            ],
+            "elements": [
+              "/paragraphs/4"
+            ]
+          },
+          {
+            "rowIndex": 0,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  61,
+                  890,
+                  61,
+                  890,
+                  94,
+                  336,
+                  94
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Certifying Employer ID",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16,
+                  95,
+                  336,
+                  94,
+                  336,
+                  128,
+                  16,
+                  128
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 60,
+                "length": 22
+              }
+            ],
+            "elements": [
+              "/paragraphs/5"
+            ]
+          },
+          {
+            "rowIndex": 1,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "03-9015140-7",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  94,
+                  890,
+                  94,
+                  890,
+                  127,
+                  336,
+                  128
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 83,
+                "length": 12
+              }
+            ],
+            "elements": [
+              "/paragraphs/6"
+            ]
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Certifying Employer Name",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16,
+                  128,
+                  336,
+                  128,
+                  336,
+                  159,
+                  16,
+                  160
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 96,
+                "length": 24
+              }
+            ],
+            "elements": [
+              "/paragraphs/7"
+            ]
+          },
+          {
+            "rowIndex": 2,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "ACCENTURE INC",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  128,
+                  890,
+                  127,
+                  890,
+                  159,
+                  336,
+                  159
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 121,
+                "length": 13
+              }
+            ],
+            "elements": [
+              "/paragraphs/8"
+            ]
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Loan Amount",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  16,
+                  160,
+                  336,
+                  159,
+                  336,
+                  193,
+                  15,
+                  193
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 135,
+                "length": 11
+              }
+            ],
+            "elements": [
+              "/paragraphs/9"
+            ]
+          },
+          {
+            "rowIndex": 3,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "₱40,000.00",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  159,
+                  890,
+                  159,
+                  890,
+                  193,
+                  336,
+                  193
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 147,
+                "length": 10
+              }
+            ],
+            "elements": [
+              "/paragraphs/10"
+            ]
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Bank Name",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  15,
+                  193,
+                  336,
+                  193,
+                  336,
+                  226,
+                  15,
+                  226
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 158,
+                "length": 9
+              }
+            ],
+            "elements": [
+              "/paragraphs/11"
+            ]
+          },
+          {
+            "rowIndex": 4,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "BANK OF THE PHILIPPINE ISLANDS",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  193,
+                  890,
+                  193,
+                  890,
+                  225,
+                  336,
+                  226
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 168,
+                "length": 30
+              }
+            ],
+            "elements": [
+              "/paragraphs/12"
+            ]
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Account Number",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  15,
+                  226,
+                  336,
+                  226,
+                  336,
+                  259,
+                  15,
+                  260
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 199,
+                "length": 14
+              }
+            ],
+            "elements": [
+              "/paragraphs/13"
+            ]
+          },
+          {
+            "rowIndex": 5,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "1599657874",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  226,
+                  890,
+                  225,
+                  890,
+                  259,
+                  336,
+                  259
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 214,
+                "length": 10
+              }
+            ],
+            "elements": [
+              "/paragraphs/14"
+            ]
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Net Amount",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  15,
+                  260,
+                  336,
+                  259,
+                  336,
+                  291,
+                  15,
+                  291
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 225,
+                "length": 10
+              }
+            ],
+            "elements": [
+              "/paragraphs/15"
+            ]
+          },
+          {
+            "rowIndex": 6,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "₱39,095.89",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  259,
+                  890,
+                  259,
+                  890,
+                  291,
+                  336,
+                  291
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 236,
+                "length": 10
+              }
+            ],
+            "elements": [
+              "/paragraphs/16"
+            ]
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Loan Month",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  15,
+                  291,
+                  336,
+                  291,
+                  336,
+                  326,
+                  15,
+                  326
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 247,
+                "length": 10
+              }
+            ],
+            "elements": [
+              "/paragraphs/17"
+            ]
+          },
+          {
+            "rowIndex": 7,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "2",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  291,
+                  890,
+                  291,
+                  890,
+                  326,
+                  336,
+                  326
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 258,
+                "length": 1
+              }
+            ],
+            "elements": [
+              "/paragraphs/18"
+            ]
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Monthly Amortization",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  15,
+                  326,
+                  336,
+                  326,
+                  336,
+                  357,
+                  14,
+                  357
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 260,
+                "length": 20
+              }
+            ],
+            "elements": [
+              "/paragraphs/19"
+            ]
+          },
+          {
+            "rowIndex": 8,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "₱1,845.80",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  326,
+                  890,
+                  326,
+                  890,
+                  357,
+                  336,
+                  357
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 281,
+                "length": 9
+              }
+            ],
+            "elements": [
+              "/paragraphs/20"
+            ]
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "First Monthly Amortization",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  14,
+                  357,
+                  336,
+                  357,
+                  336,
+                  391,
+                  14,
+                  391
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 291,
+                "length": 26
+              }
+            ],
+            "elements": [
+              "/paragraphs/21"
+            ]
+          },
+          {
+            "rowIndex": 9,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "Jul 1, 2025",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  357,
+                  890,
+                  357,
+                  890,
+                  390,
+                  336,
+                  391
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 318,
+                "length": 11
+              }
+            ],
+            "elements": [
+              "/paragraphs/22"
+            ]
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  14,
+                  391,
+                  336,
+                  391,
+                  336,
+                  406,
+                  14,
+                  406
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 10,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  391,
+                  890,
+                  390,
+                  890,
+                  404,
+                  336,
+                  406
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "PAST DUE",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  14,
+                  406,
+                  336,
+                  406,
+                  336,
+                  446,
+                  14,
+                  446
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 330,
+                "length": 8
+              }
+            ],
+            "elements": [
+              "/paragraphs/23"
+            ]
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  406,
+                  757,
+                  406,
+                  757,
+                  446,
+                  336,
+                  446
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 11,
+            "columnIndex": 3,
+            "content": "V",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  757,
+                  406,
+                  890,
+                  404,
+                  890,
+                  446,
+                  757,
+                  446
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 339,
+                "length": 1
+              }
+            ],
+            "elements": [
+              "/paragraphs/24"
+            ]
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "CURRENT DUE",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  14,
+                  446,
+                  336,
+                  446,
+                  336,
+                  490,
+                  14,
+                  490
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 341,
+                "length": 11
+              }
+            ],
+            "elements": [
+              "/paragraphs/25"
+            ]
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  446,
+                  757,
+                  446,
+                  757,
+                  490,
+                  336,
+                  490
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 12,
+            "columnIndex": 3,
+            "content": "V",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  757,
+                  446,
+                  890,
+                  446,
+                  890,
+                  490,
+                  757,
+                  490
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 353,
+                "length": 1
+              }
+            ],
+            "elements": [
+              "/paragraphs/26"
+            ]
+          },
+          {
+            "rowIndex": 13,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Total Amount Due",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  14,
+                  490,
+                  336,
+                  490,
+                  336,
+                  537,
+                  13,
+                  537
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 355,
+                "length": 16
+              }
+            ],
+            "elements": [
+              "/paragraphs/27"
+            ]
+          },
+          {
+            "rowIndex": 13,
+            "columnIndex": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  490,
+                  757,
+                  490,
+                  757,
+                  537,
+                  336,
+                  537
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 13,
+            "columnIndex": 3,
+            "content": "3,705.90",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  757,
+                  490,
+                  890,
+                  490,
+                  890,
+                  537,
+                  757,
+                  537
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 372,
+                "length": 8
+              }
+            ],
+            "elements": [
+              "/paragraphs/28"
+            ]
+          },
+          {
+            "rowIndex": 14,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Amount Not Yet Due",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  13,
+                  537,
+                  336,
+                  537,
+                  336,
+                  575,
+                  13,
+                  575
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 381,
+                "length": 18
+              }
+            ],
+            "elements": [
+              "/paragraphs/29"
+            ]
+          },
+          {
+            "rowIndex": 14,
+            "columnIndex": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  537,
+                  757,
+                  537,
+                  757,
+                  575,
+                  336,
+                  575
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 14,
+            "columnIndex": 3,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  757,
+                  537,
+                  890,
+                  537,
+                  890,
+                  575,
+                  757,
+                  575
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 15,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Principal",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  13,
+                  575,
+                  336,
+                  575,
+                  336,
+                  609,
+                  13,
+                  610
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 400,
+                "length": 9
+              }
+            ],
+            "elements": [
+              "/paragraphs/30"
+            ]
+          },
+          {
+            "rowIndex": 15,
+            "columnIndex": 2,
+            "content": "",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  575,
+                  757,
+                  575,
+                  757,
+                  609,
+                  336,
+                  609
+                ]
+              }
+            ],
+            "spans": []
+          },
+          {
+            "rowIndex": 15,
+            "columnIndex": 3,
+            "content": "20,994.99",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  757,
+                  575,
+                  890,
+                  575,
+                  890,
+                  609,
+                  757,
+                  609
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 410,
+                "length": 9
+              }
+            ],
+            "elements": [
+              "/paragraphs/31"
+            ]
+          },
+          {
+            "rowIndex": 16,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Interest",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  13,
+                  610,
+                  336,
+                  609,
+                  336,
+                  656,
+                  12,
+                  657
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 420,
+                "length": 8
+              }
+            ],
+            "elements": [
+              "/paragraphs/32"
+            ]
+          },
+          {
+            "rowIndex": 16,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "202.46",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  609,
+                  890,
+                  609,
+                  890,
+                  656,
+                  336,
+                  656
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 429,
+                "length": 6
+              }
+            ],
+            "elements": [
+              "/paragraphs/33"
+            ]
+          },
+          {
+            "rowIndex": 17,
+            "columnIndex": 0,
+            "columnSpan": 2,
+            "content": "Total Amount of Obligation",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  12,
+                  657,
+                  336,
+                  656,
+                  336,
+                  690,
+                  12,
+                  690
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 436,
+                "length": 26
+              }
+            ],
+            "elements": [
+              "/paragraphs/34"
+            ]
+          },
+          {
+            "rowIndex": 17,
+            "columnIndex": 2,
+            "columnSpan": 2,
+            "content": "24,903.35",
+            "boundingRegions": [
+              {
+                "pageNumber": 1,
+                "polygon": [
+                  336,
+                  656,
+                  890,
+                  656,
+                  890,
+                  690,
+                  336,
+                  690
+                ]
+              }
+            ],
+            "spans": [
+              {
+                "offset": 463,
+                "length": 9
+              }
+            ],
+            "elements": [
+              "/paragraphs/35"
+            ]
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              19,
+              88,
+              889,
+              88,
+              889,
+              693,
+              19,
+              693
+            ]
+          }
+        ],
+        "spans": [
+          {
+            "offset": 38,
+            "length": 434
+          }
+        ]
+      }
+    ],
+    "paragraphs": [
+      {
+        "spans": [
+          {
+            "offset": 0,
+            "length": 12
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              883,
+              13,
+              898,
+              13,
+              898,
+              27,
+              883,
+              27
+            ]
+          }
+        ],
+        "content": "× :selected:"
+      },
+      {
+        "spans": [
+          {
+            "offset": 13,
+            "length": 6
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              178,
+              18,
+              228,
+              18,
+              228,
+              31,
+              178,
+              30
+            ]
+          }
+        ],
+        "role": "pageHeader",
+        "content": "ACTIVE"
+      },
+      {
+        "spans": [
+          {
+            "offset": 20,
+            "length": 17
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              9,
+              16,
+              169,
+              16,
+              169,
+              31,
+              9,
+              31
+            ]
+          }
+        ],
+        "role": "pageHeader",
+        "content": "SL202505150961830"
+      },
+      {
+        "spans": [
+          {
+            "offset": 38,
+            "length": 3
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              16,
+              61,
+              76,
+              61,
+              76,
+              94,
+              16,
+              95
+            ]
+          }
+        ],
+        "content": "SOA"
+      },
+      {
+        "spans": [
+          {
+            "offset": 42,
+            "length": 17
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              76,
+              61,
+              336,
+              61,
+              336,
+              94,
+              76,
+              94
+            ]
+          }
+        ],
+        "content": "Credited Payments"
+      },
+      {
+        "spans": [
+          {
+            "offset": 60,
+            "length": 22
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              16,
+              95,
+              336,
+              94,
+              336,
+              128,
+              16,
+              128
+            ]
+          }
+        ],
+        "content": "Certifying Employer ID"
+      },
+      {
+        "spans": [
+          {
+            "offset": 83,
+            "length": 12
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              94,
+              890,
+              94,
+              890,
+              127,
+              336,
+              128
+            ]
+          }
+        ],
+        "content": "03-9015140-7"
+      },
+      {
+        "spans": [
+          {
+            "offset": 96,
+            "length": 24
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              16,
+              128,
+              336,
+              128,
+              336,
+              159,
+              16,
+              160
+            ]
+          }
+        ],
+        "content": "Certifying Employer Name"
+      },
+      {
+        "spans": [
+          {
+            "offset": 121,
+            "length": 13
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              128,
+              890,
+              127,
+              890,
+              159,
+              336,
+              159
+            ]
+          }
+        ],
+        "content": "ACCENTURE INC"
+      },
+      {
+        "spans": [
+          {
+            "offset": 135,
+            "length": 11
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              16,
+              160,
+              336,
+              159,
+              336,
+              193,
+              15,
+              193
+            ]
+          }
+        ],
+        "content": "Loan Amount"
+      },
+      {
+        "spans": [
+          {
+            "offset": 147,
+            "length": 10
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              159,
+              890,
+              159,
+              890,
+              193,
+              336,
+              193
+            ]
+          }
+        ],
+        "content": "₱40,000.00"
+      },
+      {
+        "spans": [
+          {
+            "offset": 158,
+            "length": 9
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              15,
+              193,
+              336,
+              193,
+              336,
+              226,
+              15,
+              226
+            ]
+          }
+        ],
+        "content": "Bank Name"
+      },
+      {
+        "spans": [
+          {
+            "offset": 168,
+            "length": 30
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              193,
+              890,
+              193,
+              890,
+              225,
+              336,
+              226
+            ]
+          }
+        ],
+        "content": "BANK OF THE PHILIPPINE ISLANDS"
+      },
+      {
+        "spans": [
+          {
+            "offset": 199,
+            "length": 14
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              15,
+              226,
+              336,
+              226,
+              336,
+              259,
+              15,
+              260
+            ]
+          }
+        ],
+        "content": "Account Number"
+      },
+      {
+        "spans": [
+          {
+            "offset": 214,
+            "length": 10
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              226,
+              890,
+              225,
+              890,
+              259,
+              336,
+              259
+            ]
+          }
+        ],
+        "content": "1599657874"
+      },
+      {
+        "spans": [
+          {
+            "offset": 225,
+            "length": 10
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              15,
+              260,
+              336,
+              259,
+              336,
+              291,
+              15,
+              291
+            ]
+          }
+        ],
+        "content": "Net Amount"
+      },
+      {
+        "spans": [
+          {
+            "offset": 236,
+            "length": 10
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              259,
+              890,
+              259,
+              890,
+              291,
+              336,
+              291
+            ]
+          }
+        ],
+        "content": "₱39,095.89"
+      },
+      {
+        "spans": [
+          {
+            "offset": 247,
+            "length": 10
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              15,
+              291,
+              336,
+              291,
+              336,
+              326,
+              15,
+              326
+            ]
+          }
+        ],
+        "content": "Loan Month"
+      },
+      {
+        "spans": [
+          {
+            "offset": 258,
+            "length": 1
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              291,
+              890,
+              291,
+              890,
+              326,
+              336,
+              326
+            ]
+          }
+        ],
+        "content": "2"
+      },
+      {
+        "spans": [
+          {
+            "offset": 260,
+            "length": 20
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              15,
+              326,
+              336,
+              326,
+              336,
+              357,
+              14,
+              357
+            ]
+          }
+        ],
+        "content": "Monthly Amortization"
+      },
+      {
+        "spans": [
+          {
+            "offset": 281,
+            "length": 9
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              326,
+              890,
+              326,
+              890,
+              357,
+              336,
+              357
+            ]
+          }
+        ],
+        "content": "₱1,845.80"
+      },
+      {
+        "spans": [
+          {
+            "offset": 291,
+            "length": 26
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              14,
+              357,
+              336,
+              357,
+              336,
+              391,
+              14,
+              391
+            ]
+          }
+        ],
+        "content": "First Monthly Amortization"
+      },
+      {
+        "spans": [
+          {
+            "offset": 318,
+            "length": 11
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              357,
+              890,
+              357,
+              890,
+              390,
+              336,
+              391
+            ]
+          }
+        ],
+        "content": "Jul 1, 2025"
+      },
+      {
+        "spans": [
+          {
+            "offset": 330,
+            "length": 8
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              14,
+              406,
+              336,
+              406,
+              336,
+              446,
+              14,
+              446
+            ]
+          }
+        ],
+        "content": "PAST DUE"
+      },
+      {
+        "spans": [
+          {
+            "offset": 339,
+            "length": 1
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              757,
+              406,
+              890,
+              404,
+              890,
+              446,
+              757,
+              446
+            ]
+          }
+        ],
+        "content": "V"
+      },
+      {
+        "spans": [
+          {
+            "offset": 341,
+            "length": 11
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              14,
+              446,
+              336,
+              446,
+              336,
+              490,
+              14,
+              490
+            ]
+          }
+        ],
+        "content": "CURRENT DUE"
+      },
+      {
+        "spans": [
+          {
+            "offset": 353,
+            "length": 1
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              757,
+              446,
+              890,
+              446,
+              890,
+              490,
+              757,
+              490
+            ]
+          }
+        ],
+        "content": "V"
+      },
+      {
+        "spans": [
+          {
+            "offset": 355,
+            "length": 16
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              14,
+              490,
+              336,
+              490,
+              336,
+              537,
+              13,
+              537
+            ]
+          }
+        ],
+        "content": "Total Amount Due"
+      },
+      {
+        "spans": [
+          {
+            "offset": 372,
+            "length": 8
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              757,
+              490,
+              890,
+              490,
+              890,
+              537,
+              757,
+              537
+            ]
+          }
+        ],
+        "content": "3,705.90"
+      },
+      {
+        "spans": [
+          {
+            "offset": 381,
+            "length": 18
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              13,
+              537,
+              336,
+              537,
+              336,
+              575,
+              13,
+              575
+            ]
+          }
+        ],
+        "content": "Amount Not Yet Due"
+      },
+      {
+        "spans": [
+          {
+            "offset": 400,
+            "length": 9
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              13,
+              575,
+              336,
+              575,
+              336,
+              609,
+              13,
+              610
+            ]
+          }
+        ],
+        "content": "Principal"
+      },
+      {
+        "spans": [
+          {
+            "offset": 410,
+            "length": 9
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              757,
+              575,
+              890,
+              575,
+              890,
+              609,
+              757,
+              609
+            ]
+          }
+        ],
+        "content": "20,994.99"
+      },
+      {
+        "spans": [
+          {
+            "offset": 420,
+            "length": 8
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              13,
+              610,
+              336,
+              609,
+              336,
+              656,
+              12,
+              657
+            ]
+          }
+        ],
+        "content": "Interest"
+      },
+      {
+        "spans": [
+          {
+            "offset": 429,
+            "length": 6
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              609,
+              890,
+              609,
+              890,
+              656,
+              336,
+              656
+            ]
+          }
+        ],
+        "content": "202.46"
+      },
+      {
+        "spans": [
+          {
+            "offset": 436,
+            "length": 26
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              12,
+              657,
+              336,
+              656,
+              336,
+              690,
+              12,
+              690
+            ]
+          }
+        ],
+        "content": "Total Amount of Obligation"
+      },
+      {
+        "spans": [
+          {
+            "offset": 463,
+            "length": 9
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              336,
+              656,
+              890,
+              656,
+              890,
+              690,
+              336,
+              690
+            ]
+          }
+        ],
+        "content": "24,903.35"
+      },
+      {
+        "spans": [
+          {
+            "offset": 473,
+            "length": 5
+          }
+        ],
+        "boundingRegions": [
+          {
+            "pageNumber": 1,
+            "polygon": [
+              849,
+              739,
+              886,
+              739,
+              886,
+              752,
+              849,
+              752
+            ]
+          }
+        ],
+        "content": "Close"
+      }
+    ],
+    "styles": [
+      {
+        "confidence": 0.5,
+        "spans": [
+          {
+            "offset": 339,
+            "length": 1
+          }
+        ],
+        "isHandwritten": true
+      }
+    ],
+    "contentFormat": "text",
+    "sections": [
+      {
+        "spans": [
+          {
+            "offset": 0,
+            "length": 12
+          },
+          {
+            "offset": 38,
+            "length": 440
+          }
+        ],
+        "elements": [
+          "/paragraphs/0",
+          "/tables/0",
+          "/paragraphs/36"
+        ]
+      }
+    ]
+  }
+}
