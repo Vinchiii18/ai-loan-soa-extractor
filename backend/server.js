@@ -12,7 +12,14 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Middleware
-app.use(cors());
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://ai-loan-soa-extractor.vercel.app",
+    ],
+  }),
+);
 app.use(express.json());
 
 const upload = multer({
